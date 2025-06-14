@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pepsend Digital - Ofertas</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <header class="site-header">
+        <!-- Contenedor para alinear logo y título -->
+        <div class="title-container">
+            <img src="logo.png" alt="Pepsend Digital Logo" class="header-logo">
+            <h1>¡Cotiza tu videojuego favorito!</h1>
+        </div>
+        
+        <div class="search-container">
+            <input type="search" id="searchInput" placeholder="Busca por nombre de videojuego...">
+            <div class="search-icon">
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <div id="game-grid" class="game-grid">
+            <div id="loadingMessage" class="loading-message">
+                <div class="spinner"></div>
+                <p>Cargando ofertas...</p>
+            </div>
+        </div>
+        <div id="noResultsMessage" class="no-results" style="display: none;">
+            No se encontraron videojuegos que coincidan con tu búsqueda.
+        </div>
+    </main>
+
+    <footer>
+        <p>Desarrollado para la gestión de ofertas. Todos los derechos reservados.</p>
+    </footer>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.2/papaparse.min.js"></script>
+    <script src="script.js"></script>
+
+</body>
+</html>

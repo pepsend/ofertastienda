@@ -1,0 +1,258 @@
+/* === ESTILO PROFESIONAL FINAL v4 (Branding + Título) === */
+:root {
+    /* Paleta de colores basada en el logo Pepsend Digital */
+    --pepsend-red: #D84343;
+    --pepsend-dark: #231f20;
+    --pepsend-grey: #4E5052;
+    --pepsend-light-grey: #282828;
+    --pepsend-white: #F5F5F5;
+    
+    /* Variables de tema */
+    --background-color: #181818;
+    --card-background: var(--pepsend-light-grey);
+    --primary-color: var(--pepsend-red);
+    --text-color: var(--pepsend-white);
+    --text-muted: #AAAAAA;
+    --offer-glow: #ff5733; /* Un rojo más brillante para el resplandor */
+    --card-border: rgba(255, 255, 255, 0.08);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Poppins', 'Segoe UI', sans-serif;
+    background-color: var(--background-color);
+    color: var(--text-color);
+    line-height: 1.6;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.site-header {
+    background-color: var(--pepsend-dark);
+    text-align: center;
+    padding: 2.5rem 1rem;
+    border-bottom: 4px solid var(--primary-color);
+    box-shadow: 0 4px 15px rgba(0,0,0,0.3);
+}
+
+.title-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1.5rem; /* Espacio entre logo y título */
+    margin-bottom: 2rem;
+}
+
+.header-logo {
+    /* Tamaño ajustado para que funcione como icono */
+    max-height: 70px; 
+    width: auto;
+    object-fit: contain;
+}
+
+.site-header h1 {
+    font-size: clamp(2rem, 5vw, 3.5rem);
+    font-weight: 700;
+    color: var(--pepsend-white);
+    margin: 0; /* Resetea el margen del h1 */
+}
+
+.search-container {
+    position: relative;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+#searchInput {
+    width: 100%;
+    padding: 1rem 1.5rem 1rem 3.5rem;
+    font-size: 1.1rem;
+    border-radius: 50px;
+    border: 2px solid var(--pepsend-grey);
+    background-color: #333;
+    color: white;
+    transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+}
+
+#searchInput::placeholder {
+    color: var(--text-muted);
+}
+
+#searchInput:focus {
+    outline: none;
+    background-color: #404040;
+    box-shadow: 0 0 0 3px var(--primary-color);
+    border-color: var(--primary-color);
+}
+
+.search-icon {
+    position: absolute;
+    left: 1.25rem;
+    top: 50%;
+    transform: translateY(-50%);
+    color: var(--text-muted);
+    pointer-events: none;
+}
+
+main {
+    padding: clamp(1.5rem, 5vw, 3rem);
+    max-width: 1600px;
+    margin: 0 auto;
+}
+
+.game-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 2rem;
+}
+
+.game-card {
+    background-color: var(--card-background);
+    border-radius: 16px;
+    border: 1px solid var(--card-border);
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+}
+
+.game-card:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 12px 40px rgba(0, 0, 0, 0.3);
+    border-color: var(--primary-color);
+}
+
+.game-card.oferta-destacada {
+    box-shadow: 0 0 15px -2px var(--offer-glow), 0 0 30px -10px var(--offer-glow);
+    border-color: var(--offer-glow);
+}
+
+.game-card.oferta-destacada:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 0 25px -2px var(--offer-glow), 0 0 40px -10px var(--offer-glow);
+    border-color: var(--offer-glow);
+}
+
+.game-cover {
+    width: 100%;
+    height: 170px;
+    object-fit: cover;
+    display: block;
+    background-color: #383838;
+}
+
+.game-cover-placeholder {
+    width: 100%;
+    height: 170px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #383838;
+    margin-bottom: 1.5rem;
+}
+
+.placeholder-text {
+    color: var(--text-muted);
+    font-size: 0.9rem;
+}
+
+.card-content {
+    padding: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    margin-top: -1.5rem; /* Compensa el margin-bottom del placeholder */
+}
+
+.card-content h3 {
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: var(--text-color);
+    margin: 0 0 1rem 0;
+    line-height: 1.4;
+    height: 5.25em; /* Aprox. 3 líneas */
+    overflow: hidden;
+}
+
+.game-price {
+    font-size: 2.2rem;
+    font-weight: 700;
+    color: var(--primary-color);
+    text-shadow: 0 0 10px rgba(216, 67, 67, 0.4);
+    margin-bottom: 1rem;
+    text-align: center;
+}
+
+.game-details {
+    margin-top: auto;
+    border-top: 1px solid var(--card-border);
+    padding-top: 1rem;
+}
+
+.game-details p {
+    font-size: 0.9rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.3rem 0;
+}
+
+.game-details .label {
+    color: var(--text-muted);
+    font-weight: 400;
+}
+
+.game-details span {
+    font-weight: 600;
+    color: var(--text-color);
+    text-align: right;
+}
+
+.no-results {
+    grid-column: 1 / -1;
+    text-align: center;
+    font-size: 1.2rem;
+    color: var(--text-muted);
+    padding: 4rem 1rem;
+    background-color: var(--card-background);
+    border-radius: 16px;
+}
+
+.loading-message {
+    grid-column: 1 / -1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 4rem 1rem;
+    color: var(--text-muted);
+}
+
+.spinner {
+    border: 4px solid rgba(255, 255, 255, 0.1);
+    border-left-color: var(--primary-color);
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    animation: spin 1s linear infinite;
+    margin-bottom: 1rem;
+}
+
+@keyframes spin {
+    to { transform: rotate(360deg); }
+}
+
+footer {
+    text-align: center;
+    padding: 2rem 1rem;
+    margin-top: 3rem;
+    background-color: var(--pepsend-dark);
+    color: var(--text-muted);
+    font-size: 0.9rem;
+}
