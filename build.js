@@ -1,26 +1,29 @@
-// build.js - v37: Basado en el v35 que funcionaba, con imágenes HQ.
+// build.js - v35 (El que funcionaba)
 import fs from 'fs';
 import Papa from 'papaparse';
 import fetch from 'node-fetch';
 
-console.log("Iniciando proceso de construcción (v37 - El que Funciona, Mejorado)...");
+console.log("Iniciando proceso de construcción (Volviendo al v35 que funcionaba)...");
 
 // --- CONFIGURACIÓN ---
 const CSV_FILE_PATH = './OFERTAS_FINAL.csv';
 const OUTPUT_JSON_PATH = './juegos.json';
 const CACHE_FILE_PATH = './build_cache.json';
 
-const RAWG_API_KEY = '694d2b80f36148b0a8c04bd0a6f28c33'; 
-const IGDB_CLIENT_ID = 'yij22l487u2wsx0em66xjdfa89r1fu';
+const RAWG_API_KEY = 'A694d2b80f36148b0a8c04bd0a6f28c33'; 
+const IGDB_CLIENT_ID = '5m5y7vod3ilgxjb5xnsgug8pdps3m9';
 const IGDB_ACCESS_TOKEN = 'yij22l487u2wsx0em66xjdfa89r1fu';
 const SIMILARITY_THRESHOLD = 0.80;
 
 // ============================================================================
-//  FUNCIÓN PRINCIPAL (Robusta y sin cambios)
+//  FUNCIÓN PRINCIPAL
 // ============================================================================
 async function build() {
     let dataCache = {};
-    if (fs.existsSync(CACHE_FILE_PATH)) { dataCache = JSON.parse(fs.readFileSync(CACHE_FILE_PATH, 'utf8')); console.log(`Caché cargado con ${Object.keys(dataCache).length} entradas.`); }
+    if (fs.existsSync(CACHE_FILE_PATH)) {
+        dataCache = JSON.parse(fs.readFileSync(CACHE_FILE_PATH, 'utf8'));
+        console.log(`Caché cargado con ${Object.keys(dataCache).length} entradas.`);
+    }
     
     const fileContent = fs.readFileSync(CSV_FILE_PATH, 'utf8');
     const csvData = Papa.parse(fileContent, { header: true, skipEmptyLines: true }).data;
@@ -61,7 +64,7 @@ async function build() {
 }
 
 // ============================================================================
-//  FUNCIONES AUXILIARES (Lógica de v35 + Mejora de IGDB)
+//  FUNCIONES AUXILIARES (La lógica que daba buenos resultados)
 // ============================================================================
 
 async function getGameDetails(game, dataCache) {
@@ -98,25 +101,21 @@ async function searchApi(api, originalName) {
     return null;
 }
 
-// --- FUNCIÓN DE IGDB MEJORADA ---
+// --- Esta es la versión de IGDB que funcionaba, sin pedir imágenes HQ ---
 async function fetchFromIgdbApi(searchTerm) {
     if (!searchTerm || !IGDB_CLIENT_ID.includes('AQUÍ_VA')) return null;
     try {
         const response = await fetch(`https://api.igdb.com/v4/games`, {
             method: 'POST',
             headers: { 'Accept': 'application/json', 'Client-ID': IGDB_CLIENT_ID, 'Authorization': `Bearer ${IGDB_ACCESS_TOKEN}` },
-            body: `fields name, cover.url, screenshots.url, genres.name; search "${searchTerm.replace(/"/g, '\\"')}"; limit 1;`
+            body: `fields name, cover.url, genres.name; search "${searchTerm.replace(/"/g, '\\"')}"; limit 1;`
         });
         if (response.ok) {
             const data = await response.json();
             if (data && data.length > 0) {
                 const game = data[0];
-                let imageUrl = null;
-                if (game.cover && game.cover.url) {
-                    imageUrl = game.cover.url.replace('t_thumb', 't_cover_big');
-                } else if (game.screenshots && game.screenshots.length > 0) {
-                    imageUrl = game.screenshots[0].url.replace('t_thumb', 't_screenshot_huge');
-                }
+                // Simplemente usamos la URL que nos da, sin modificarla
+                const imageUrl = game.cover ? game.cover.url : null;
                 const genres = game.genres ? game.genres.map(g => g.name).join(', ') : null;
                 return { name: game.name, data: { imageUrl, genres } };
             }
@@ -125,8 +124,7 @@ async function fetchFromIgdbApi(searchTerm) {
     return null;
 }
 
-
-// ... (El resto de funciones auxiliares son idénticas al v35)
+// --- El resto de funciones auxiliares ---
 async function fetchFromRawgApi(searchTerm) { if (!RAWG_API_KEY || RAWG_API_KEY.includes('AQUÍ_VA')) return null; try { const response = await fetch(`https://api.rawg.io/api/games?key=${RAWG_API_KEY}&search=${encodeURIComponent(searchTerm)}&page_size=1`); if (response.ok) { const data = await response.json(); if (data.results && data.results.length > 0) { const game = data.results[0]; return { name: game.name, data: { imageUrl: data.results[0].background_image, genres: game.genres.map(g => g.name).join(', ') } }; } } } catch (error) {} return null; }
 function getSimilarity(a, b) { if (a.length === 0) return b.length === 0 ? 1 : 0; if (b.length === 0) return a.length === 0 ? 1 : 0; const matrix = Array(b.length + 1).fill(null).map(() => Array(a.length + 1).fill(null)); for (let i = 0; i <= a.length; i++) { matrix[0][i] = i; } for (let j = 0; j <= b.length; j++) { matrix[j][0] = j; } for (let j = 1; j <= b.length; j++) { for (let i = 1; i <= a.length; i++) { const cost = a[i - 1] === b[j - 1] ? 0 : 1; matrix[j][i] = Math.min(matrix[j][i - 1] + 1, matrix[j - 1][i] + 1, matrix[j - 1][i - 1] + cost); } } return 1 - (matrix[b.length][a.length] / Math.max(a.length, b.length)); }
 function normalizeName(name, aggressive = false) { if (!name) return ''; let normalized = name.toLowerCase().replace(/\(.*\)|\[.*\]/g, '').replace(/#|®|™|:|'|"|’/g, ''); if (aggressive) { normalized = normalized.replace(/deluxe edition|gold edition|goty|game of the year|ultimate edition|standard edition|remastered|complete edition|definitive edition|bundle|collection/g, ''); } return normalized.trim().replace(/\s+/g, ' '); }
