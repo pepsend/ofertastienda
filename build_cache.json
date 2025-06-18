@@ -1,99 +1,71 @@
 {
-  " nobody saves the world + frozen hearth": {
-    "imageUrl": "https://store-images.s-microsoft.com/image/apps.3003.14622730277557063.15c9d110-e7a6-40d0-8259-f5847a5f0f08.4bf8eec9-7988-46b2-a058-d2d59549da47",
-    "genres": "Indie"
-  },
-  "[prototype®]": {
-    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7lS6tPKqWZynsjrPE011g6gX4BczqzQjDKA&s",
-    "genres": "Cargando..."
-  },
   "#blud": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co9oug.jpg",
+    "genres": "Role-playing (RPG), Hack and slash/Beat 'em up, Adventure, Indie"
   },
   "1971 project helios": {
-    "imageUrl": null,
-    "genres": null
-  },
-  "3 sobre 10: primera temporada": {
-    "imageUrl": "https://store-images.s-microsoft.com/image/apps.29940.13938212935937434.8b07e3da-e941-4ed3-9a3f-c5176e1f9d58.580c19c3-b557-4ec0-90c1-86b965b3df0b?q=90&w=480&h=270",
-    "genres": "Acción y aventura - Puzles y curiosidades"
-  },
-  "7 days to die - 2024": {
-    "imageUrl": "https://blog.shockbyte.com/content/images/2024/12/7-days-to-die-crossplay-cross-platform.jpg",
-    "genres": "Survival"
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co229g.jpg",
+    "genres": "Role-playing (RPG), Strategy, Turn-based strategy (TBS), Indie"
   },
   "8-bit rts series - complete collection": {
-    "imageUrl": null,
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co822h.jpg",
     "genres": null
-  },
-  "9 monkeys of shaolin + ash of gods + redeemer: bundle": {
-    "imageUrl": "https://store-images.s-microsoft.com/image/apps.57232.14574826387273347.a46f73d4-19e5-48a6-a681-3de711fd867f.9f02986e-81d6-4297-a797-872cc88457aa",
-    "genres": "Acción y Aventura"
-  },
-  "avowed standard edition": {
-    "imageUrl": "https://store-images.s-microsoft.com/image/apps.52063.13594600110987132.5376950b-9493-4428-9d55-8d6df3956a11.a24c3052-d7bd-46b0-8216-8f821160c7d6",
-    "genres": "RPG"
-  },
-  "avowed premium edition": {
-    "imageUrl": "https://store-images.s-microsoft.com/image/apps.52063.13594600110987132.5376950b-9493-4428-9d55-8d6df3956a11.a24c3052-d7bd-46b0-8216-8f821160c7d6",
-    "genres": "RPG"
   },
   "a gummy's life": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co4afj.jpg",
+    "genres": "Fighting, Simulator, Adventure, Indie"
   },
   "a hat in time": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co5pl5.jpg",
+    "genres": "Platform, Adventure, Indie"
   },
   "a juggler's tale": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co78l7.jpg",
+    "genres": "Platform, Puzzle, Adventure, Indie"
   },
   "a little lily princess": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co3kve.jpg",
+    "genres": "Simulator, Adventure, Indie, Visual Novel"
   },
   "a musical story": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2utt.jpg",
+    "genres": "Music, Adventure, Indie, Visual Novel"
   },
   "a perfect day": {
     "imageUrl": null,
     "genres": null
   },
   "a plague tale bundle": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co604y.jpg",
+    "genres": "Role-playing (RPG), Adventure"
   },
   "a plague tale: innocence": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co1lat.jpg",
+    "genres": "Role-playing (RPG), Adventure"
   },
   "a plague tale: requiem ": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co5pwb.jpg",
+    "genres": "Role-playing (RPG), Adventure"
   },
   "a quiet place: the road ahead": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co8gtp.jpg",
+    "genres": "Adventure"
   },
   "a space for the unbound": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co62kn.jpg",
+    "genres": "Puzzle, Adventure, Indie"
   },
   "a tale of paper: refolded": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co84ce.jpg",
+    "genres": "Platform, Puzzle, Adventure"
   },
   "a western drama": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co3kwr.jpg",
+    "genres": "Shooter, Adventure, Indie, Arcade"
   },
   "absolver": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co45wq.jpg",
+    "genres": "Fighting, Role-playing (RPG), Adventure, Indie"
   },
   "aca neogeo metal slug": {
     "imageUrl": null,
@@ -108,148 +80,108 @@
     "genres": null
   },
   "accident": {
-    "imageUrl": null,
-    "genres": null
-  },
-  "accidents will happen - dangerous driving crash mode bundle": {
-    "imageUrl": "https://img.gg.deals/6a/2a/b6d941ac183398c0747e3cea86510dd63adf_1232xr706_Q100.png",
-    "genres": "Carreras y vuelo"
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co8che.jpg",
+    "genres": "Simulator"
   },
   "ace attorney investigations collection": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co8d8h.jpg",
+    "genres": "Puzzle, Adventure, Visual Novel"
   },
   "ace combat™ 7: skies unknown": {
-    "imageUrl": null,
-    "genres": null
-  },
-  "ace combat™ 7: skies unknown - top gun: maverick edition": {
-    "imageUrl": "https://cdn-ext.fanatical.com/production/product/1280x720/200c489c-6e73-47f4-a76a-02a8232a6634.jpeg",
-    "genres": "Simulación - Vuelo"
-  },
-  "ace combat™ 7: skies unknown - top gun: maverick ultimate edition": {
-    "imageUrl": "https://products.eneba.games/resized-products/T-p1MECmHx4-jI3lwsl-OpRvhlJugZ02445dGLZL0bY_350x200_3x-0.png",
-    "genres": "Simulación - Vuelo"
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co1ilk.jpg",
+    "genres": "Shooter, Simulator, Arcade"
   },
   "achilles: legends untold": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co3i89.jpg",
+    "genres": "Role-playing (RPG), Hack and slash/Beat 'em up, Adventure, Indie"
   },
   "acl pro cornhole": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co56wc.jpg",
+    "genres": "Simulator, Sport"
   },
   "action arcade wrestling": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2uu1.jpg",
+    "genres": "Fighting, Sport, Indie, Arcade"
   },
   "adam wolfe ": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co3kzd.jpg",
+    "genres": "Puzzle, Adventure"
   },
   "adios": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co6kmu.jpg",
+    "genres": "Simulator, Adventure, Indie"
   },
   "adrian's tale": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co5ehl.jpg",
+    "genres": "Role-playing (RPG), Adventure, Indie"
   },
   "adventure llama bundle": {
-    "imageUrl": null,
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co5t4o.jpg",
     "genres": null
   },
   "adventures of chris": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co6y7x.jpg",
+    "genres": "Platform, Puzzle, Adventure, Indie"
   },
   "aerial_knight's never yield": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2g4u.jpg",
+    "genres": "Music, Platform, Adventure, Indie, Arcade"
   },
   "aery - a new frontier": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co24gl.jpg",
+    "genres": "Racing, Simulator, Adventure, Indie"
   },
   "aery - calm mind 2": {
-    "imageUrl": null,
-    "genres": null
-  },
-  "aery - recuerdos rotos": {
-    "imageUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1424790/capsule_616x353.jpg?t=1725286048",
-    "genres": "Aventura - Familia"
-  },
-  "aery - time traveller bundle": {
-    "imageUrl": "https://cdn5.mtcgame.com/Images/Category/1f1b6597-3718-4154-a8f5-671a0034d062.jpg",
-    "genres": "Aventura - Familia"
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co24gl.jpg",
+    "genres": "Racing, Simulator, Adventure, Indie"
   },
   "aeternoblade i&ii saga": {
     "imageUrl": null,
     "genres": null
   },
-  "aeternoblade ii: infinity": {
-    "imageUrl": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-997583-52.jpg",
-    "genres": "Adventure - Rol"
-  },
   "aew: fight forever": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co31ax.jpg",
+    "genres": "Simulator, Sport, Strategy"
   },
   "after us": {
     "imageUrl": null,
     "genres": null
   },
   "afterdream": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co571i.jpg",
+    "genres": "Point-and-click, Puzzle, Adventure, Indie, Arcade"
   },
   "afterglitch": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co571l.jpg",
+    "genres": "Adventure, Indie"
   },
   "afterimage": {
-    "imageUrl": null,
-    "genres": null
-  },
-  "agatha christie - asesinato en el orient express ": {
-    "imageUrl": "https://i0.wp.com/www.microids.com/wp-content/uploads/2023/08/murder-banner-logo-1.jpg?fit=1474%2C827&ssl=1",
-    "genres": "Acción y Aventura"
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co8o70.jpg",
+    "genres": "Platform, Role-playing (RPG), Hack and slash/Beat 'em up, Adventure, Indie"
   },
   "agatha christie - hercule poirot: the first cases": {
-    "imageUrl": null,
-    "genres": null
-  },
-  "age of empires iv: edición de aniversario - pc": {
-    "imageUrl": "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2022/10/impresiones-age-empires-iv-anniversary-edition-2853119.jpg?tf=1200x1200",
-    "genres": "Estrategia"
-  },
-  "age of mythology premium edition ": {
-    "imageUrl": "https://m.media-amazon.com/images/I/81fQSVnfI3L.jpg",
-    "genres": "Estrategia"
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co8chr.jpg",
+    "genres": "Point-and-click, Puzzle, Role-playing (RPG), Strategy, Adventure"
   },
   "age of mythology: retold ": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co8zm5.jpg",
+    "genres": "Real Time Strategy (RTS), Strategy"
   },
   "age of wonders 4 ": {
-    "imageUrl": null,
-    "genres": null
-  },
-  "age of wonders 4: premium edition ": {
-    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn_Glss0IDROSmB20LLH4PbfTA_vtBYjTthQ&s",
-    "genres": "Estrategia"
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co612o.jpg",
+    "genres": "Strategy, Turn-based strategy (TBS)"
   },
   "agent a - un puzle disfrazado": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co24bn.jpg",
+    "genres": "Point-and-click, Puzzle, Adventure, Indie"
   },
   "agent intercept": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co1r2r.jpg",
+    "genres": "Shooter, Racing, Arcade"
   },
   "aground": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co7k4j.jpg",
+    "genres": "Role-playing (RPG), Adventure, Indie"
   },
   "aguafiestas + dlc: ¡nuevos niveles y características!": {
     "imageUrl": null,
@@ -260,12 +192,12 @@
     "genres": null
   },
   "airoheart": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co4tra.jpg",
+    "genres": "Role-playing (RPG), Adventure, Indie"
   },
   "airportsim": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co7876.jpg",
+    "genres": "Role-playing (RPG), Simulator, Strategy, Indie, Arcade"
   },
   "alan wake 2 ": {
     "imageUrl": null,
@@ -276,128 +208,124 @@
     "genres": null
   },
   "alan wake remastered": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co65aa.jpg",
+    "genres": "Shooter, Adventure"
   },
   "alchemic cutie": {
     "imageUrl": null,
     "genres": null
   },
   "alchemist adventure": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2peu.jpg",
+    "genres": "Puzzle, Role-playing (RPG), Adventure, Indie"
   },
   "alchemist: the potion monger": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co709u.jpg",
+    "genres": "Puzzle, Role-playing (RPG), Simulator, Adventure"
   },
   "alchemy garden": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co3lb7.jpg",
+    "genres": "Simulator, Strategy, Indie"
   },
   "alder's blood: definitive edition": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co7gah.jpg",
+    "genres": "Role-playing (RPG), Strategy, Turn-based strategy (TBS), Tactical"
   },
   "alexandria iv": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co8wh0.jpg",
+    "genres": "Adventure, Indie, Visual Novel"
   },
   "alien hominid hd": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co7ct6.jpg",
+    "genres": "Shooter, Platform, Indie, Arcade"
   },
   "alien hominid invasion": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co3lc8.jpg",
+    "genres": "Shooter, Platform, Indie, Arcade"
   },
   "alien hominid: the extra terrestrial bundle": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co8cib.jpg",
+    "genres": "Arcade"
   },
   "aliens: dark descent": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co6liu.jpg",
+    "genres": "Strategy, Adventure"
   },
   "aliens: fireteam elite": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co3gu0.jpg",
+    "genres": "Shooter, Role-playing (RPG)"
   },
   "aliens: fireteam elite into the hive edition": {
     "imageUrl": null,
     "genres": null
   },
   "aliens: fireteam elite ultimate edition": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co5fb4.jpg",
+    "genres": "Adventure"
   },
   "alina of the arena": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co4d95.jpg",
+    "genres": "Fighting, Strategy, Indie, Arcade, Card & Board Game"
   },
   "alisa - a survival horror adventure": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2jtu.jpg",
+    "genres": "Adventure, Indie"
   },
   "allison's diary: rebirth": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2eqo.jpg",
+    "genres": "Simulator, Adventure, Indie"
   },
   "alone in the dark": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co85ws.jpg",
+    "genres": "Shooter, Puzzle, Adventure"
   },
   "alphadia genesis": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2c8j.jpg",
+    "genres": "Role-playing (RPG), Simulator, Strategy, Adventure"
   },
   "alphadia genesis 2": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co496i.jpg",
+    "genres": "Role-playing (RPG), Simulator, Strategy, Adventure, Indie"
   },
   "alphadia neo": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co5yqy.jpg",
+    "genres": "Role-playing (RPG), Simulator, Strategy, Adventure"
   },
   "aluna: sentinel of the shards": {
-    "imageUrl": null,
-    "genres": null
-  },
-  "amber alert director's cut": {
-    "imageUrl": "https://gamefaqs.gamespot.com/a/box/2/0/1/1130201_front.jpg",
-    "genres": "Acción y Aventura"
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co3134.jpg",
+    "genres": "Role-playing (RPG), Adventure, Indie"
   },
   "american fugitive": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co1rdk.jpg",
+    "genres": "Shooter, Racing, Adventure, Indie"
   },
   "american hero": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co3w2u.jpg",
+    "genres": "Adventure"
   },
   "amnesia: rebirth": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2iuo.jpg",
+    "genres": "Puzzle, Adventure, Indie"
   },
   "amnesia: the bunker": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co5us3.jpg",
+    "genres": "Shooter, Puzzle, Adventure, Indie"
   },
   "an airport for aliens currently run by dogs": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co247b.jpg",
+    "genres": "Puzzle, Role-playing (RPG), Adventure, Indie, Visual Novel"
   },
   "an evil existence": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2ket.jpg",
+    "genres": "Adventure, Indie"
   },
   "ancestors legacy": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co1n25.jpg",
+    "genres": "Real Time Strategy (RTS), Strategy, Tactical"
   },
   "ancestors: the humankind odyssey": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co1rg8.jpg",
+    "genres": "Role-playing (RPG), Adventure, Indie"
   },
   "andro dunos 2": {
     "imageUrl": null,
@@ -408,172 +336,172 @@
     "genres": null
   },
   "animal doctor": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2x9e.jpg",
+    "genres": "Role-playing (RPG), Simulator"
   },
   "animal hospital": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co79co.jpg",
+    "genres": "Simulator"
   },
   "animal lover": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co3liq.jpg",
+    "genres": "Simulator, Adventure, Indie, Visual Novel"
   },
   "animal shelter simulator": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co4l0z.jpg",
+    "genres": "Simulator, Adventure, Indie"
   },
   "animus - stand alone": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co84ba.jpg",
+    "genres": "Fighting, Role-playing (RPG), Arcade"
   },
   "animus: revenant": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co3lj5.jpg",
+    "genres": "Role-playing (RPG), Hack and slash/Beat 'em up, Adventure, Indie"
   },
   "aniquilation": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co3wr1.jpg",
+    "genres": "Shooter, Adventure, Indie, Arcade"
   },
   "ankora: lost days": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co3iki.jpg",
+    "genres": "Role-playing (RPG), Adventure, Indie"
   },
   "anna´s quest": {
     "imageUrl": null,
     "genres": null
   },
   "anno : mutationem": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co6vn1.jpg",
+    "genres": "Role-playing (RPG), Hack and slash/Beat 'em up, Adventure, Indie"
   },
   "anno 1800™ edición de consola": {
     "imageUrl": null,
     "genres": null
   },
   "another crab's treasure": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co6mrs.jpg",
+    "genres": "Platform, Role-playing (RPG), Adventure, Indie"
   },
   "another dawn": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2ozl.jpg",
+    "genres": "Shooter, Adventure, Indie"
   },
   "another sight": {
-    "imageUrl": null,
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co57xq.jpg",
     "genres": null
   },
   "anthem™: edición legión del alba": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2ehk.jpg",
+    "genres": "Shooter, Role-playing (RPG), Adventure"
   },
   "antiquia lost": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co4k5o.jpg",
+    "genres": "Role-playing (RPG), Simulator, Strategy, Adventure, Indie"
   },
   "apftu": {
     "imageUrl": null,
     "genres": null
   },
   "apsulov: end of gods": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co1h60.jpg",
+    "genres": "Adventure, Indie"
   },
   "aquarium in cafe": {
-    "imageUrl": null,
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co886n.jpg",
     "genres": null
   },
   "aragami 2": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2lk1.jpg",
+    "genres": "Adventure, Indie"
   },
   "arcade classics anniversary collection": {
     "imageUrl": null,
     "genres": null
   },
   "arcade spirits: the new challengers": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co4if8.jpg",
+    "genres": "Role-playing (RPG), Simulator, Adventure, Indie, Arcade, Visual Novel"
   },
   "arcadia fallen": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co8fus.jpg",
+    "genres": "Puzzle, Role-playing (RPG), Simulator, Adventure, Indie, Visual Novel"
   },
   "are you smarter than a 5th grader?": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co7gk1.jpg",
+    "genres": "Puzzle, Simulator"
   },
   "arietta of spirits": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2jwo.jpg",
+    "genres": "Role-playing (RPG), Adventure, Indie, Visual Novel"
   },
   "aritana and the twin masks": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co24gd.jpg",
+    "genres": "Platform, Adventure, Indie"
   },
   "ark: bob's bundle": {
-    "imageUrl": null,
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co9efy.jpg",
     "genres": null
   },
   "ark: survival ascended": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co7ace.jpg",
+    "genres": "Shooter, Role-playing (RPG), Simulator, Adventure, Indie"
   },
   "ark: ultimate survivor edition": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co3h8q.jpg",
+    "genres": "Shooter, Role-playing (RPG), Adventure, Indie"
   },
   "arkham horror: mother’s embrace": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2tte.jpg",
+    "genres": "Role-playing (RPG), Adventure"
   },
   "arma reforger": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co4rk4.jpg",
+    "genres": "Shooter, Simulator, Strategy, Tactical"
   },
   "armed emeth": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co3lnl.jpg",
+    "genres": "Role-playing (RPG), Simulator, Strategy, Adventure, Indie"
   },
   "armored core™ vi fires of rubicon™": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co6ffo.jpg",
+    "genres": "Shooter"
   },
   "arrest of a stone buddha": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co6t3j.jpg",
+    "genres": "Role-playing (RPG), Adventure, Indie"
   },
   "artists of the world bundle": {
-    "imageUrl": null,
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co3kdy.jpg",
     "genres": null
   },
   "ary and the secret of seasons": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co1xlb.jpg",
+    "genres": "Platform, Puzzle, Role-playing (RPG), Adventure, Indie"
   },
   "as dusk falls": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co4v2t.jpg",
+    "genres": "Point-and-click, Role-playing (RPG), Adventure"
   },
   "as far as the eye": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2g7d.jpg",
+    "genres": "Simulator, Strategy, Turn-based strategy (TBS), Indie"
   },
   "aspire - ina's tale": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co3wbz.jpg",
+    "genres": "Music, Platform, Puzzle, Adventure, Indie, Arcade"
   },
   "assassin's creed iv black flag": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co3tx9.jpg",
+    "genres": "Adventure"
   },
   "assassin's creed mirage & assassin's creed valhalla": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co99lp.jpg",
+    "genres": "Adventure"
   },
   "assassin's creed shadows": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co87cu.jpg",
+    "genres": "Role-playing (RPG), Adventure"
   },
   "assassin's creed® iii remastered": {
     "imageUrl": null,
@@ -596,156 +524,156 @@
     "genres": null
   },
   "assetto corsa competizione": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co790d.jpg",
+    "genres": "Racing, Simulator"
   },
   "assetto corsa competizione + 2023 gt world challenge": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co790d.jpg",
+    "genres": "Racing, Simulator"
   },
   "assetto corsa competizione: paquete 2024": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co790d.jpg",
+    "genres": "Racing, Simulator"
   },
   "astalon: tears of the earth": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2m6k.jpg",
+    "genres": "Platform, Puzzle, Adventure, Indie"
   },
   "asterigos: curse of the stars deluxe edition": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co57k8.jpg",
+    "genres": "Role-playing (RPG)"
   },
   "astronite": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co55vd.jpg",
+    "genres": "Shooter, Platform, Role-playing (RPG), Adventure, Indie"
   },
   "atlas (game preview)": {
     "imageUrl": null,
     "genres": null
   },
   "atom rpg: post-apocalyptic indie game": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co1qvc.jpg",
+    "genres": "Role-playing (RPG), Strategy, Adventure, Indie"
   },
   "atomic heart ": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co68ag.jpg",
+    "genres": "Shooter, Role-playing (RPG), Adventure"
   },
   "atomic heart - gold edition ": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co68ag.jpg",
+    "genres": "Shooter, Role-playing (RPG), Adventure"
   },
   "atomic heart - premium edition ": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co68ag.jpg",
+    "genres": "Shooter, Role-playing (RPG), Adventure"
   },
   "atomicrops: reap what you bundle": {
-    "imageUrl": null,
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co4uhm.jpg",
     "genres": null
   },
   "atrio: the dark wild (game preview)": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2we1.jpg",
+    "genres": "Simulator, Strategy, Adventure, Indie"
   },
   "autobahn police simulator": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co28le.jpg",
+    "genres": "Racing, Simulator"
   },
   "autobahn police simulator 2": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co23os.jpg",
+    "genres": "Racing, Simulator, Adventure"
   },
   "autonauts": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co7ewv.jpg",
+    "genres": "Simulator, Strategy, Indie"
   },
   "avatar the last airbender: quest for balance": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co504n.jpg",
+    "genres": "Role-playing (RPG), Adventure"
   },
   "avatar: frontiers of pandora™": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co9oe3.jpg",
+    "genres": "Adventure"
   },
   "avicii invector": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co24dj.jpg",
+    "genres": "Music, Indie, Arcade"
   },
   "away : the survival series": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2uox.jpg",
+    "genres": "Fighting, Platform, Simulator, Adventure, Indie"
   },
   "aztech forgotten gods": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co4ecm.jpg",
+    "genres": "Platform, Adventure, Indie"
   },
   "azure striker gunvolt 2": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co1n1o.jpg",
+    "genres": "Shooter, Platform, Adventure, Indie"
   },
   "azure striker gunvolt 3": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2bw9.jpg",
+    "genres": "Platform"
   },
   "b.a.t.s.": {
     "imageUrl": null,
     "genres": null
   },
   "baby shark™: sing & swim party": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co72nl.jpg",
+    "genres": "Music, Adventure"
   },
   "baby storm": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co4anp.jpg",
+    "genres": "Simulator, Strategy, Adventure, Indie, Arcade"
   },
   "back 4 blood: edición deluxe": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2t5d.jpg",
+    "genres": "Shooter"
   },
   "backbeat": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co9ar6.jpg",
+    "genres": "Music, Puzzle, Strategy, Indie, Card & Board Game"
   },
   "backfirewall_": {
     "imageUrl": null,
     "genres": null
   },
   "bai qu: hundreds of melodies": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co667h.jpg",
+    "genres": "Adventure, Indie, Visual Novel"
   },
   "balan wonderworld": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2xxs.jpg",
+    "genres": "Platform"
   },
   "balatro": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co9f4g.jpg",
+    "genres": "Strategy, Turn-based strategy (TBS), Indie, Card & Board Game"
   },
   "baldo the guardian owls": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co3ogg.jpg",
+    "genres": "Puzzle, Role-playing (RPG), Adventure, Indie"
   },
   "baldur's gate 3": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co670h.jpg",
+    "genres": "Role-playing (RPG), Strategy, Turn-based strategy (TBS), Tactical, Adventure"
   },
   "baldur's gate 3 - digital deluxe edition": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co670h.jpg",
+    "genres": "Role-playing (RPG), Strategy, Turn-based strategy (TBS), Tactical, Adventure"
   },
   "baldur's gate and baldur's gate ii: enhanced editions": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co8d2m.jpg",
+    "genres": "Role-playing (RPG)"
   },
   "baldur's gate: dark alliance": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co1tb2.jpg",
+    "genres": "Role-playing (RPG), Hack and slash/Beat 'em up, Adventure"
   },
   "baldur's gate: dark alliance ii": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co1tb2.jpg",
+    "genres": "Role-playing (RPG), Hack and slash/Beat 'em up, Adventure"
   },
   "balls of fame ultimate bundle": {
     "imageUrl": null,
@@ -756,28 +684,28 @@
     "genres": null
   },
   "banishers: ghosts of new eden": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co6lmo.jpg",
+    "genres": "Role-playing (RPG), Adventure"
   },
   "baobabs mausoleum grindhouse edition": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2oz3.jpg",
+    "genres": "Point-and-click, Platform, Role-playing (RPG), Adventure, Indie"
   },
   "barista simulator": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co5yrf.jpg",
+    "genres": "Simulator, Indie"
   },
   "barn finders y treasure hunter simulator": {
     "imageUrl": null,
     "genres": null
   },
   "bartlow's dread machine": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2t2h.jpg",
+    "genres": "Shooter, Hack and slash/Beat 'em up"
   },
   "barton lynch pro surfing": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co7f0m.jpg",
+    "genres": "Simulator, Sport"
   },
   "bassmaster® fishing: 2022 bassmaster classic®": {
     "imageUrl": null,
@@ -792,284 +720,284 @@
     "genres": null
   },
   "batman: arkham collection": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co8wgm.jpg",
+    "genres": "Hack and slash/Beat 'em up, Adventure"
   },
   "batora: lost haven": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2p95.jpg",
+    "genres": "Shooter, Role-playing (RPG), Hack and slash/Beat 'em up"
   },
   "battle axe": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co8rem.jpg",
+    "genres": "Hack and slash/Beat 'em up, Adventure, Indie, Arcade"
   },
   "battle brothers": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co1iop.jpg",
+    "genres": "Role-playing (RPG), Simulator, Strategy, Turn-based strategy (TBS), Tactical, Adventure, Indie"
   },
   "battle brothers - complete edition": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co1iop.jpg",
+    "genres": "Role-playing (RPG), Simulator, Strategy, Turn-based strategy (TBS), Tactical, Adventure, Indie"
   },
   "battlefield™ 2042 para xbox one y xbox series x|s ": {
     "imageUrl": null,
     "genres": null
   },
   "battlefield™ v definitive edition": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2kfh.jpg",
+    "genres": "Shooter"
   },
   "battlestar galactica deadlock™": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co6f1h.jpg",
+    "genres": "Simulator, Strategy, Turn-based strategy (TBS)"
   },
   "bayonetta": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co9fho.jpg",
+    "genres": "Hack and slash/Beat 'em up, Adventure"
   },
   "bayonetta & vanquish 10th anniversary bundle": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co1zi6.jpg",
+    "genres": "Fighting, Hack and slash/Beat 'em up"
   },
   "beach buggy racing 2: hot wheels™ edition": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co3kbi.jpg",
+    "genres": "Racing"
   },
   "beach buggy racing 2: island adventure": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2uuz.jpg",
+    "genres": "Racing, Sport, Adventure, Arcade"
   },
   "beacon pines": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co5d1x.jpg",
+    "genres": "Adventure, Indie, Visual Novel"
   },
   "bear with me: the complete collection": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co1sj7.jpg",
+    "genres": "Puzzle, Role-playing (RPG), Adventure"
   },
   "beasts of maravilla island": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2mq9.jpg",
+    "genres": "Role-playing (RPG), Adventure, Indie"
   },
   "before we leave": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co7k34.jpg",
+    "genres": "Simulator, Strategy, Indie"
   },
   "behind the mask bundle": {
-    "imageUrl": null,
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co8in7.jpg",
     "genres": null
   },
   "beholder 3": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co7gly.jpg",
+    "genres": "Point-and-click, Simulator, Strategy, Adventure, Indie"
   },
   "ben 10 lote": {
     "imageUrl": null,
     "genres": null
   },
   "ben 10: power trip": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2eyt.jpg",
+    "genres": "Platform, Hack and slash/Beat 'em up, Adventure"
   },
   "bendy and the dark revival": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co683q.jpg",
+    "genres": "Puzzle, Adventure, Indie"
   },
   "beyond blue": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co292r.jpg",
+    "genres": "Simulator, Adventure, Indie"
   },
   "beyond enemy lines - remastered edition": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co26r2.jpg",
+    "genres": "Indie"
   },
   "beyond enemy lines 2 - enhanced edition": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2et3.jpg",
+    "genres": "Shooter, Tactical, Indie"
   },
   "bienvenido a hanwell": {
     "imageUrl": null,
     "genres": null
   },
   "big rumble boxing: creed champions": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co3xt9.jpg",
+    "genres": "Fighting, Sport, Arcade"
   },
   "biomutant": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co1rse.jpg",
+    "genres": "Role-playing (RPG), Adventure"
   },
   "bioshock 2 remastered": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co54yw.jpg",
+    "genres": "Shooter, Role-playing (RPG)"
   },
   "bioshock infinite: the complete edition": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co50k0.jpg",
+    "genres": "Shooter, Adventure"
   },
   "bioshock remastered": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co54yu.jpg",
+    "genres": "Shooter, Role-playing (RPG), Adventure"
   },
   "bish bash bots": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co70ks.jpg",
+    "genres": "Strategy, Indie, Arcade"
   },
   "black book": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co8vv5.jpg",
+    "genres": "Role-playing (RPG), Strategy, Turn-based strategy (TBS), Adventure, Indie, Card & Board Game"
   },
   "black legend": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2he6.jpg",
+    "genres": "Role-playing (RPG), Strategy, Tactical, Adventure"
   },
   "blacktail": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co5vul.jpg",
+    "genres": "Role-playing (RPG), Adventure, Indie"
   },
   "blackwind": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co3mca.jpg",
+    "genres": "Shooter, Platform, Hack and slash/Beat 'em up, Adventure, Indie, Arcade"
   },
   "blade assault": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co6amm.jpg",
+    "genres": "Platform, Role-playing (RPG), Adventure, Indie"
   },
   "blade of darkness": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co70tb.jpg",
+    "genres": "Role-playing (RPG), Adventure"
   },
   "blade runner enhanced edition": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co4u0k.jpg",
+    "genres": "Point-and-click, Adventure"
   },
   "bladed fury": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co1i4o.jpg",
+    "genres": "Platform, Role-playing (RPG), Strategy, Hack and slash/Beat 'em up, Adventure, Indie"
   },
   "blades & wands bundle": {
-    "imageUrl": null,
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co7tvz.jpg",
     "genres": null
   },
   "blair witch": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co9em7.jpg",
+    "genres": "Adventure"
   },
   "blasphemous": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co7c4l.jpg",
+    "genres": "Platform, Role-playing (RPG), Adventure"
   },
   "blasphemous + blasphemous 2 bundle": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co7c4l.jpg",
+    "genres": "Platform, Role-playing (RPG), Adventure"
   },
   "blasphemous 2": {
     "imageUrl": null,
     "genres": null
   },
   "blaster master zero 2": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co9o7l.jpg",
+    "genres": "Indie"
   },
   "blazblue: cross tag battle special edition": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co735k.jpg",
+    "genres": "Fighting"
   },
   "blaze y los monster machines: corredores de ciudad axle": {
     "imageUrl": null,
     "genres": null
   },
   "blazing beaks": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co7cmo.jpg",
+    "genres": "Shooter, Role-playing (RPG), Adventure, Indie"
   },
   "bleak faith": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co3mcx.jpg",
+    "genres": "Role-playing (RPG), Hack and slash/Beat 'em up, Adventure, Indie"
   },
   "blood bowl 3 - brutal edition ": {
     "imageUrl": null,
     "genres": null
   },
   "bloodrayne 2: revamped": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co491r.jpg",
+    "genres": "Fighting, Shooter, Platform, Hack and slash/Beat 'em up, Adventure"
   },
   "bloodrayne betrayal: fresh bites": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co39xm.jpg",
+    "genres": "Fighting, Platform, Hack and slash/Beat 'em up, Adventure"
   },
   "bloodrayne: revamped": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co491q.jpg",
+    "genres": "Shooter, Platform, Role-playing (RPG), Hack and slash/Beat 'em up, Adventure"
   },
   "bloodroots": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co1i6c.jpg",
+    "genres": "Platform, Adventure, Indie, Arcade"
   },
   "bloodshore": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co496y.jpg",
+    "genres": "Adventure, Indie"
   },
   "bloodstained: curse of the moon": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co3dsq.jpg",
+    "genres": "Platform, Adventure, Indie"
   },
   "bloodstained: curse of the moon 2": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2d4b.jpg",
+    "genres": "Platform, Adventure"
   },
   "bloodstained: ritual of the night": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co5qgf.jpg",
+    "genres": "Platform, Role-playing (RPG), Adventure"
   },
   "bloody rally show": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2hgb.jpg",
+    "genres": "Racing, Simulator, Sport, Indie, Arcade"
   },
   "bluey: el videojuego": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co73oi.jpg",
+    "genres": "Adventure"
   },
   "boomerang fu": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2ero.jpg",
+    "genres": "Fighting, Indie, Arcade"
   },
   "borderlands 3: next level edition": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co20r3.jpg",
+    "genres": "Shooter, Role-playing (RPG)"
   },
   "borderlands 3: ultimate edition": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2kg9.jpg",
+    "genres": "Shooter, Role-playing (RPG)"
   },
   "borderlands legendary collection": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2c8q.jpg",
+    "genres": "Shooter, Role-playing (RPG)"
   },
   "borderlands: game of the year edition": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co229j.jpg",
+    "genres": "Shooter, Role-playing (RPG)"
   },
   "born of bread": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co7ahs.jpg",
+    "genres": "Platform, Role-playing (RPG), Adventure, Indie"
   },
   "botany manor": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co5rg6.jpg",
+    "genres": "Puzzle, Adventure, Indie"
   },
   "boyfriend dungeon": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co1xvt.jpg",
+    "genres": "Role-playing (RPG), Simulator, Adventure, Indie"
   },
   "braid, anniversary edition": {
     "imageUrl": null,
     "genres": null
   },
   "bramble: the mountain king": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co6f01.jpg",
+    "genres": "Platform, Puzzle, Adventure, Indie"
   },
   "bratz®: a presumir de estilazo - edición completa": {
     "imageUrl": null,
@@ -1077,123 +1005,123 @@
   },
   "bratz™: a presumir de estilazo": {
     "imageUrl": null,
-    "genres": null
+    "genres": "Platform"
   },
   "bright memory": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co26z5.jpg",
+    "genres": "Shooter, Adventure, Indie"
   },
   "bright memory: infinite edición platinum": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co26z5.jpg",
+    "genres": "Shooter, Adventure, Indie"
   },
   "bring to light": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co24a7.jpg",
+    "genres": "Puzzle, Adventure, Indie"
   },
   "broadsword: warlord edition": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co79bt.jpg",
+    "genres": "Role-playing (RPG), Strategy, Adventure, Card & Board Game"
   },
   "brocula": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co8786.jpg",
+    "genres": "Role-playing (RPG), Simulator, Strategy, Adventure, Indie"
   },
   "brok the investigator": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2koj.jpg",
+    "genres": "Point-and-click, Fighting, Puzzle, Hack and slash/Beat 'em up, Adventure"
   },
   "broken lines": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co1xgp.jpg",
+    "genres": "Role-playing (RPG), Strategy, Turn-based strategy (TBS), Tactical"
   },
   "broken pieces": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co55a2.jpg",
+    "genres": "Point-and-click, Shooter, Puzzle, Role-playing (RPG), Adventure, Indie"
   },
   "broken roads": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co82bc.jpg",
+    "genres": "Role-playing (RPG), Strategy, Turn-based strategy (TBS), Indie"
   },
   "broken universe - tower defense + cyber protocol": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co3mli.jpg",
+    "genres": "Fighting, Puzzle, Strategy, Adventure, Indie"
   },
   "brotato & abyssal terrors dlc - bundle": {
     "imageUrl": null,
     "genres": null
   },
   "brothers: a tale of two sons remake": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co7tae.jpg",
+    "genres": "Puzzle, Adventure"
   },
   "brunch club": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co25ay.jpg",
+    "genres": "Simulator, Strategy, Arcade"
   },
   "bugsnax": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co6qjm.jpg",
+    "genres": "Puzzle, Adventure, Indie"
   },
   "builder flipper bundle": {
-    "imageUrl": null,
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co7dnh.jpg",
     "genres": null
   },
   "builder simulator": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co7wq1.jpg",
+    "genres": "Puzzle, Simulator"
   },
   "bulwark evolution: falconeer chronicles": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co99k6.jpg",
+    "genres": "Real Time Strategy (RTS), Simulator, Strategy, Indie"
   },
   "bundle - mythic ocean + journey of the broken circle + cosmic top secret\r\n": {
-    "imageUrl": null,
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co9eef.jpg",
     "genres": null
   },
   "bunhouse": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co3mn5.jpg",
+    "genres": "Simulator, Indie"
   },
   "bunny bundle 2": {
-    "imageUrl": null,
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co4mlh.jpg",
     "genres": null
   },
   "burnhouse lane": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co5cf2.jpg",
+    "genres": "Point-and-click, Puzzle, Adventure"
   },
   "bus simulator": {
     "imageUrl": null,
-    "genres": null
+    "genres": "Role-playing (RPG), Simulator"
   },
   "bus simulator 21 next stop": {
-    "imageUrl": null,
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co6ix7.jpg",
     "genres": null
   },
   "bus simulator 21 next stop - gold edition": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co6qvs.jpg",
+    "genres": "Simulator"
   },
   "button city": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2i6u.jpg",
+    "genres": "Role-playing (RPG), Adventure, Indie, Arcade, Visual Novel"
   },
   "caballeros floppy": {
     "imageUrl": null,
     "genres": null
   },
   "cafe owner simulator": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co5cg4.jpg",
+    "genres": "Simulator, Adventure, Indie"
   },
   "cake bash": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2i52.jpg",
+    "genres": "Fighting, Hack and slash/Beat 'em up, Indie, Arcade"
   },
   "calico": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2c9c.jpg",
+    "genres": "Role-playing (RPG), Simulator, Adventure, Indie"
   },
   "call of duty®: advanced warfare - gold edition": {
     "imageUrl": null,
@@ -1203,10 +1131,6 @@
     "imageUrl": null,
     "genres": null
   },
-  "call of duty®: black ops 6 - lote multigeneración": {
-    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3wDo7A5GzGs0T850pxOOrY0-yEbxrltjCOA&s",
-    "genres": "Shooter"
-  },
   "call of duty®: black ops cold war": {
     "imageUrl": null,
     "genres": null
@@ -1214,22 +1138,6 @@
   "call of duty®: ghosts": {
     "imageUrl": null,
     "genres": null
-  },
-  "call of duty®: infinite warfare - digital deluxe edition": {
-    "imageUrl": "https://static.kinguin.net/media/catalog/category/cache/1/hi_image/9df78eab33525d08d6e5fb8d27136e95/1065full-call-of-duty_-infinite-warfare----digital-deluxe-edition-cover_1.jpg",
-    "genres": "Shooter"
-  },
-  "call of duty®: infinite warfare - digital deluxe edition - pc": {
-    "imageUrl": "https://products.eneba.games/resized-products/YWN7b-5PEK0k-kiY-qoPhj8edmYOKtRdR248fjnKPVk_350x200_3x-0.jpeg",
-    "genres": "Shooter"
-  },
-  "call of duty®: infinite warfare - digital legacy edition - pc": {
-    "imageUrl": "https://store-images.s-microsoft.com/image/apps.42542.13510798887670809.1152921504711563955.512c950f-d5e2-476f-8232-8da1de2a6be3",
-    "genres": "Shooter"
-  },
-  "call of duty®: infinite warfare - ed. lanzamiento": {
-    "imageUrl": "https://i.ytimg.com/vi/Is5hPH1UyJI/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGAgZShVMA8=&rs=AOn4CLC4yXuBiISdZ7D9xCuf2o1ZhwGTBw",
-    "genres": "Shooter"
   },
   "call of duty®: infinite warfare - pc": {
     "imageUrl": null,
@@ -1260,8 +1168,8 @@
     "genres": null
   },
   "call of the wild: the angler™ ": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co4w8a.jpg",
+    "genres": "Simulator, Sport, Adventure"
   },
   "can't drive this": {
     "imageUrl": null,
@@ -1272,216 +1180,216 @@
     "genres": null
   },
   "captain's choice bundle": {
-    "imageUrl": null,
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co3kag.jpg",
     "genres": null
   },
   "car detailing simulator": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co4mgu.jpg",
+    "genres": "Racing, Simulator, Indie, Arcade"
   },
   "car mechanic simulator": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co1mb3.jpg",
+    "genres": "Puzzle, Racing, Simulator"
   },
   "car mechanic simulator 2021": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co3acn.jpg",
+    "genres": "Racing, Simulator, Indie"
   },
   "car mechanic simulator 2021 & revhead": {
-    "imageUrl": null,
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co73rd.jpg",
     "genres": null
   },
   "car mechanic simulator classic": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2gkz.jpg",
+    "genres": "Simulator"
   },
   "cardaclysm: shards of the four": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co29r1.jpg",
+    "genres": "Puzzle, Role-playing (RPG), Strategy, Turn-based strategy (TBS), Adventure, Indie, Card & Board Game"
   },
   "cardpocalypse": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co1uqu.jpg",
+    "genres": "Role-playing (RPG), Strategy, Adventure, Indie, Card & Board Game"
   },
   "carnivores: dinosaur hunt": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co30x3.jpg",
+    "genres": "Shooter, Simulator, Sport, Adventure"
   },
   "cartel tycoon": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co97wp.jpg",
+    "genres": "Simulator, Strategy, Indie"
   },
   "cartel tycoon - deluxe edition": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co97wp.jpg",
+    "genres": "Simulator, Strategy, Indie"
   },
   "carto": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2kf2.jpg",
+    "genres": "Puzzle, Role-playing (RPG), Adventure, Indie"
   },
   "cartoon puzzler bundle": {
-    "imageUrl": null,
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co3kb1.jpg",
     "genres": null
   },
   "carx drift racing online": {
     "imageUrl": null,
-    "genres": null
+    "genres": "Racing, Simulator, Sport"
   },
   "case 2: animatronics survival": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co1uxy.jpg",
+    "genres": "Puzzle, Simulator, Adventure, Indie"
   },
   "cassette beasts": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co5bqu.jpg",
+    "genres": "Role-playing (RPG), Strategy, Adventure, Indie"
   },
   "castle on the coast": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2ibz.jpg",
+    "genres": "Platform, Adventure, Indie"
   },
   "castle renovator": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co5k48.jpg",
+    "genres": "Simulator, Adventure"
   },
   "castlestorm ii": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co1lxx.jpg",
+    "genres": "Strategy"
   },
   "castlevania advance collection": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co3vn4.jpg",
+    "genres": "Platform, Role-playing (RPG), Adventure"
   },
   "castlevania anniversary collection": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co24a1.jpg",
+    "genres": "Fighting, Platform, Adventure, Arcade"
   },
   "cat quest iii": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co8cp4.jpg",
+    "genres": "Role-playing (RPG), Adventure, Indie"
   },
   "catan® - edición para consolas super deluxe": {
     "imageUrl": null,
     "genres": null
   },
   "catie in meowmeowland": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co3my1.jpg",
+    "genres": "Point-and-click, Puzzle, Adventure, Indie"
   },
   "century: age of ashes - tormentadores edición premium\r\n": {
     "imageUrl": null,
-    "genres": null
+    "genres": "Simulator, Strategy"
   },
   "charon's staircase": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co4spf.jpg",
+    "genres": "Puzzle, Adventure, Indie"
   },
   "chasing static": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2n4p.jpg",
+    "genres": "Adventure, Indie"
   },
   "chasm: the rift": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2l4r.jpg",
+    "genres": "Shooter"
   },
   "checkers for kids": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co3m6t.jpg",
+    "genres": "Puzzle, Strategy, Card & Board Game"
   },
   "chef life - al forno edition": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co7ts7.jpg",
+    "genres": "Simulator"
   },
   "chef life: a restaurant simulator": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co4hwz.jpg",
+    "genres": "Simulator, Adventure"
   },
   "chernobylite complete edition": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co9n7h.jpg",
+    "genres": "Shooter, Role-playing (RPG), Adventure"
   },
   "chicken police - paint it red!": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2kga.jpg",
+    "genres": "Point-and-click, Puzzle, Adventure, Indie, Visual Novel"
   },
   "chicory: una historia pintoresca": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co4s6f.jpg",
+    "genres": "Puzzle, Role-playing (RPG), Adventure, Indie"
   },
   "children of morta: complete edition": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co3z2d.jpg",
+    "genres": "Role-playing (RPG), Adventure, Indie"
   },
   "children of silentown": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2m6s.jpg",
+    "genres": "Point-and-click, Puzzle, Adventure, Indie"
   },
   "chinatown detective agency": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co4lti.jpg",
+    "genres": "Point-and-click, Puzzle, Adventure, Indie"
   },
   "chivalry 2 special edition": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co8ox6.jpg",
+    "genres": "Fighting, Tactical, Hack and slash/Beat 'em up, Indie"
   },
   "choo-choo charles": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co62bw.jpg",
+    "genres": "Shooter, Adventure, Indie"
   },
   "chronicles of 2 heroes": {
     "imageUrl": null,
     "genres": null
   },
   "chrono cross: the radical dreamers edition": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co4mw1.jpg",
+    "genres": "Role-playing (RPG), Adventure"
   },
   "cinders": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co7wsh.jpg",
+    "genres": "Role-playing (RPG), Adventure"
   },
   "círculo infinito": {
     "imageUrl": null,
     "genres": null
   },
   "circus electrique": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co4al1.jpg",
+    "genres": "Role-playing (RPG), Strategy, Turn-based strategy (TBS), Tactical, Indie"
   },
   "cities: skylines - premium edition 2": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co8icd.jpg",
+    "genres": "Simulator"
   },
   "cities: skylines - remastered": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co65u4.jpg",
+    "genres": "Simulator"
   },
   "citydriver": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co77bw.jpg",
+    "genres": "Simulator, Indie"
   },
   "clan n": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co20qd.jpg",
+    "genres": "Fighting, Hack and slash/Beat 'em up, Adventure, Indie, Arcade"
   },
   "clea 2": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2i9p.jpg",
+    "genres": "Puzzle, Adventure, Indie"
   },
   "climber: sky is the limit": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2lmw.jpg",
+    "genres": "Simulator, Sport, Adventure, Indie"
   },
   "clone drone in the danger zone": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co6f1a.jpg",
+    "genres": "Fighting, Shooter, Simulator, Hack and slash/Beat 'em up, Indie"
   },
   "closer the distance": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co8c8r.jpg",
+    "genres": "Point-and-click, Role-playing (RPG), Simulator, Adventure, Indie"
   },
   "cloud gardens": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2swb.jpg",
+    "genres": "Puzzle, Simulator, Strategy, Indie"
   },
   "cluedo edición black adder": {
     "imageUrl": null,
@@ -1492,40 +1400,40 @@
     "genres": null
   },
   "clunky hero": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co3nby.jpg",
+    "genres": "Platform, Role-playing (RPG), Adventure, Indie"
   },
   "cobra kai 2: dojos rising": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co536q.jpg",
+    "genres": "Fighting, Hack and slash/Beat 'em up, Adventure, Arcade"
   },
   "cobra kai 2: dojos rising - nemesis edition": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co5sr9.jpg",
+    "genres": "Fighting, Adventure, Arcade"
   },
   "cobra kai: the karate kid saga continues": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2gkb.jpg",
+    "genres": "Fighting, Hack and slash/Beat 'em up, Adventure, Arcade"
   },
   "code vein": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co21lc.jpg",
+    "genres": "Role-playing (RPG)"
   },
   "code vein - deluxe edition": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co21lc.jpg",
+    "genres": "Role-playing (RPG)"
   },
   "codex of victory": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co23md.jpg",
+    "genres": "Strategy, Turn-based strategy (TBS), Adventure, Indie"
   },
   "coffee talk": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co55rx.jpg",
+    "genres": "Simulator, Adventure, Indie, Visual Novel"
   },
   "coffee talk episode 2: hibiscus and butterfly": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co4p7r.jpg",
+    "genres": "Simulator, Adventure, Indie, Visual Novel"
   },
   "colección lego® marvel": {
     "imageUrl": null,
@@ -1540,175 +1448,175 @@
     "genres": null
   },
   "collapsed": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co5ctl.jpg",
+    "genres": "Indie"
   },
   "colossal cave": {
     "imageUrl": null,
     "genres": null
   },
   "comic book legends": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co6vrk.jpg",
+    "genres": "Shooter, Puzzle, Adventure"
   },
   "commander ’85": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2ck9.jpg",
+    "genres": "Role-playing (RPG), Simulator, Strategy, Adventure, Indie"
   },
   "commandos 2 - hd remaster": {
     "imageUrl": null,
     "genres": null
   },
   "commandos 2 & 3 – hd remaster double pack": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co536x.jpg",
+    "genres": "Strategy"
   },
   "commandos 2 & praetorians: hd remaster double pack": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co30rk.jpg",
+    "genres": "Real Time Strategy (RTS), Strategy, Tactical"
   },
   "commandos 3 - hd remaster": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co4wfl.jpg",
+    "genres": "Real Time Strategy (RTS), Simulator, Strategy, Tactical"
   },
   "common'hood": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co3a3y.jpg",
+    "genres": "Simulator, Indie"
   },
   "company of heroes 2: complete collection - pc": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co1my1.jpg",
+    "genres": "Real Time Strategy (RTS), Simulator, Strategy"
   },
   "company of heroes 3": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co9gf4.jpg",
+    "genres": "Real Time Strategy (RTS), Strategy, Turn-based strategy (TBS), Tactical"
   },
   "company of heroes 3: premium edition ": {
-    "imageUrl": null,
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co5sf8.jpg",
     "genres": null
   },
   "conan exiles – complete edition": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co6nv0.jpg",
+    "genres": "Fighting, Role-playing (RPG), Simulator, Strategy, Adventure"
   },
   "conker: live and reloaded": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co1uq6.jpg",
+    "genres": "Shooter, Platform, Puzzle, Adventure"
   },
   "connectank": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co3a07.jpg",
+    "genres": "Puzzle, Strategy, Adventure, Indie, Arcade"
   },
   "conscript": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co8j8x.jpg",
+    "genres": "Puzzle, Role-playing (RPG), Adventure, Indie"
   },
   "construction simulator": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co513s.jpg",
+    "genres": "Simulator, Strategy"
   },
   "construction simulator - gold edition": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co513s.jpg",
+    "genres": "Simulator, Strategy"
   },
   "construction simulator - titanium edition": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co513s.jpg",
+    "genres": "Simulator, Strategy"
   },
   "construction simulator 3 - console edition": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co1ye9.jpg",
+    "genres": "Simulator"
   },
   "constructor plus": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co26bh.jpg",
+    "genres": "Simulator, Strategy, Indie"
   },
   "contra anniversary collection": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co24ab.jpg",
+    "genres": "Shooter, Platform, Arcade"
   },
   "contra: operation galuga": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co72z7.jpg",
+    "genres": "Shooter, Platform, Arcade"
   },
   "contra: rogue corps": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co1lzz.jpg",
+    "genres": "Shooter, Platform"
   },
   "control - pc ": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co96kg.jpg",
+    "genres": "Strategy"
   },
   "control ultimate edition": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2ewb.jpg",
+    "genres": "Shooter, Adventure"
   },
   "control ultimate edition - xbox series x|s": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2ewb.jpg",
+    "genres": "Shooter, Adventure"
   },
   "convergence: a league of legends story™": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co56x9.jpg",
+    "genres": "Platform, Adventure, Indie"
   },
   "convergence: a league of legends story™, edición deluxe": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co5rjl.jpg",
+    "genres": "Adventure, Indie, Visual Novel"
   },
   "cook, serve, delicious!": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co24mn.jpg",
+    "genres": "Puzzle, Simulator, Strategy, Indie"
   },
   "cook, serve, delicious! 2/3 bundle!!": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co3k7u.jpg",
+    "genres": "Simulator, Strategy"
   },
   "cookie cutter": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co4w84.jpg",
+    "genres": "Platform, Role-playing (RPG), Adventure, Indie"
   },
   "cooking simulator": {
     "imageUrl": null,
-    "genres": null
+    "genres": "Simulator, Indie"
   },
   "corponation: the sorting process": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co6a6t.jpg",
+    "genres": "Point-and-click, Puzzle, Simulator, Strategy, Adventure, Indie"
   },
   "corpse party": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co42j9.jpg",
+    "genres": "Role-playing (RPG), Adventure"
   },
   "cozy grove + new neighbears bundle": {
-    "imageUrl": null,
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co4psy.jpg",
     "genres": null
   },
   "craftopia": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co28g1.jpg",
+    "genres": "Role-playing (RPG), Hack and slash/Beat 'em up, Adventure, Indie"
   },
   "crash bandicoot™ - lote crashiversary": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co55ex.jpg",
+    "genres": "Platform"
   },
   "crash bandicoot™ - lote quadrilogy": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co55ex.jpg",
+    "genres": "Platform"
   },
   "crash bandicoot™ 4: it’s about time": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2hp4.jpg",
+    "genres": "Platform"
   },
   "crash bandicoot™ n. sane trilogy": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co1v62.jpg",
+    "genres": "Platform, Adventure"
   },
   "crash drive 3": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co3dgi.jpg",
+    "genres": "Racing, Simulator, Sport, Indie, Arcade"
   },
   "crash team rumble™ - edición estándar": {
-    "imageUrl": null,
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co7lzv.jpg",
     "genres": null
   },
   "crashlands": {
@@ -1716,36 +1624,36 @@
     "genres": null
   },
   "crash™ team racing nitro-fueled - edición nitros oxide": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2p89.jpg",
+    "genres": "Platform, Racing, Adventure"
   },
   "cricket 19": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co3xru.jpg",
+    "genres": "Simulator, Sport"
   },
   "cricket 22": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co4pmp.jpg",
+    "genres": "Simulator, Sport"
   },
   "cricket 24": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co7plg.jpg",
+    "genres": "Simulator, Sport"
   },
   "crime boss: rockay city": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co6mey.jpg",
+    "genres": "Shooter, Adventure"
   },
   "crime files bundle": {
-    "imageUrl": null,
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co6qye.jpg",
     "genres": null
   },
   "criminal expert": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co613u.jpg",
+    "genres": "Simulator, Strategy, Adventure, Visual Novel"
   },
   "cris tales": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2efa.jpg",
+    "genres": "Role-playing (RPG), Adventure, Indie"
   },
   "crisis core –final fantasy vii– reunion": {
     "imageUrl": null,
@@ -1756,175 +1664,175 @@
     "genres": null
   },
   "crosscode": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co28wy.jpg",
+    "genres": "Shooter, Puzzle, Role-playing (RPG), Adventure, Indie"
   },
   "crossroads inn": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co30yd.jpg",
+    "genres": "Role-playing (RPG), Simulator, Strategy, Adventure, Indie"
   },
   "crow country": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co7ab9.jpg",
+    "genres": "Shooter, Puzzle, Adventure, Indie"
   },
   "crown wars – sacred edition": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co7pvv.jpg",
+    "genres": "Role-playing (RPG), Strategy"
   },
   "crusader kings iii": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co90uu.jpg",
+    "genres": "Role-playing (RPG), Simulator, Strategy"
   },
   "crusader kings iii - pc": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co90uu.jpg",
+    "genres": "Role-playing (RPG), Simulator, Strategy"
   },
   "crysis 2 remastered": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co404r.jpg",
+    "genres": "Shooter"
   },
   "crysis 3 remastered": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co404q.jpg",
+    "genres": "Shooter"
   },
   "crysis remastered": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2on5.jpg",
+    "genres": "Shooter, Adventure"
   },
   "crysis remastered trilogy": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co3wsr.jpg",
+    "genres": "Shooter, Tactical"
   },
   "crystal ortha": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2kgq.jpg",
+    "genres": "Puzzle, Role-playing (RPG), Simulator, Strategy, Adventure"
   },
   "cult of the lamb ": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co55md.jpg",
+    "genres": "Role-playing (RPG), Simulator, Strategy, Hack and slash/Beat 'em up, Adventure, Indie"
   },
   "cult of the lamb: cultist edition": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co50n3.jpg",
+    "genres": "Strategy, Adventure, Indie"
   },
   "cult of the lamb: heretic edition": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co6rue.jpg",
+    "genres": "Strategy, Adventure"
   },
   "cuphead & the delicious last course": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co9kwv.jpg",
+    "genres": "Platform, Adventure, Indie"
   },
   "curious expedition 2": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co4b6w.jpg",
+    "genres": "Role-playing (RPG), Simulator, Strategy, Turn-based strategy (TBS), Adventure, Indie, Card & Board Game"
   },
   "curious expedition 2 bundle": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co5w2x.jpg",
+    "genres": "Role-playing (RPG), Strategy, Adventure, Indie"
   },
   "cursed to golf": {
-    "imageUrl": null,
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co6ki3.jpg",
     "genres": null
   },
   "cyber bundle": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co6f5b.jpg",
+    "genres": "Shooter, Racing, Adventure, Arcade"
   },
   "cyber shadow": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co1k2x.jpg",
+    "genres": "Platform, Hack and slash/Beat 'em up, Adventure, Indie, Arcade"
   },
   "cyberpunk 2077": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co7iy1.jpg",
+    "genres": "Shooter, Role-playing (RPG), Adventure"
   },
   "cyberpunk 2077: edición definitiva (xbox series x|s)": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co7iy1.jpg",
+    "genres": "Shooter, Role-playing (RPG), Adventure"
   },
   "dakar desert rally - deluxe edition": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co4s8w.jpg",
+    "genres": "Racing, Simulator, Sport, Arcade"
   },
   "dance of death: du lac & fey": {
     "imageUrl": null,
     "genres": null
   },
   "dandy ace": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co25fl.jpg",
+    "genres": "Fighting, Adventure, Indie"
   },
   "danganronpa 2: goodbye despair anniversary edition": {
     "imageUrl": null,
     "genres": null
   },
   "dangerous driving": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2pul.jpg",
+    "genres": "Racing"
   },
   "dark souls™ ii: scholar of the first sin": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co20um.jpg",
+    "genres": "Role-playing (RPG), Adventure"
   },
   "dark souls™ iii": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co1vcf.jpg",
+    "genres": "Role-playing (RPG), Adventure"
   },
   "dark souls™ iii - deluxe edition": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co1vcf.jpg",
+    "genres": "Role-playing (RPG), Adventure"
   },
   "dark souls™: remastered": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2uro.jpg",
+    "genres": "Role-playing (RPG), Adventure"
   },
   "darker skies": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co6z1e.jpg",
+    "genres": "Shooter, Adventure"
   },
   "darkestville castle": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co24f7.jpg",
+    "genres": "Puzzle, Adventure, Indie"
   },
   "darkwood": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co3rnn.jpg",
+    "genres": "Role-playing (RPG), Indie"
   },
   "darq ultimate edition": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co5rbr.jpg",
+    "genres": "Platform, Puzzle, Strategy, Adventure, Indie, Arcade"
   },
   "dawn of man": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co1qv9.jpg",
+    "genres": "Simulator, Strategy, Indie"
   },
   "dawn of man + planetbase": {
-    "imageUrl": null,
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co6nkf.jpg",
     "genres": null
   },
   "daydream: forgotten sorrow": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co4tun.jpg",
+    "genres": "Platform, Puzzle, Adventure, Indie"
   },
   "daymare: 1994 sandcastle (xbox one version)": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co6t9f.jpg",
+    "genres": "Point-and-click, Puzzle, Adventure, Indie"
   },
   "daymare: 1994 sandcastle (xbox series x|s version)": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co6t9f.jpg",
+    "genres": "Point-and-click, Puzzle, Adventure, Indie"
   },
   "daymare: 1998": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co24fl.jpg",
+    "genres": "Adventure, Indie"
   },
   "days of doom": {
     "imageUrl": null,
     "genres": null
   },
   "dayz cool edition": {
-    "imageUrl": null,
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co9esk.jpg",
     "genres": null
   },
   "dc justice league: caos cósmico": {
@@ -1935,37 +1843,33 @@
     "imageUrl": null,
     "genres": null
   },
-  "death stranding director's cut": {
-    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgxudSmkMKJmgqStdfMwPUppoYp3IVNjvUjA&s",
-    "genres": "Shooter"
-  },
   "dead age ii": {
     "imageUrl": null,
     "genres": null
   },
   "dead cells: medley of pain bundle": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co66lg.jpg",
+    "genres": "Platform, Adventure, Indie"
   },
   "dead cells: return to castlevania bundle": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co7jes.jpg",
+    "genres": "Platform, Adventure, Indie"
   },
   "dead end job": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co1z2n.jpg",
+    "genres": "Shooter, Indie, Arcade"
   },
   "dead island 2 ": {
-    "imageUrl": null,
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co911q.jpg",
     "genres": null
   },
   "dead island 2 ultimate edition ": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co8yos.jpg",
+    "genres": "Shooter, Role-playing (RPG), Hack and slash/Beat 'em up, Adventure"
   },
   "dead island definitive edition": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co6o7n.jpg",
+    "genres": "Shooter, Hack and slash/Beat 'em up"
   },
   "dead man´s diary": {
     "imageUrl": null,
@@ -1980,280 +1884,280 @@
     "genres": null
   },
   "deadcraft deluxe edition": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co4th2.jpg",
+    "genres": "Simulator"
   },
   "deadliest catch: the game": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co1w0i.jpg",
+    "genres": "Simulator, Strategy, Adventure, Indie, Arcade"
   },
   "deadly days": {
     "imageUrl": null,
     "genres": null
   },
   "death park bundle": {
-    "imageUrl": null,
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co886x.jpg",
     "genres": null
   },
   "death's door": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co45xc.jpg",
+    "genres": "Role-playing (RPG), Hack and slash/Beat 'em up, Adventure, Indie"
   },
   "death's gambit: afterlife": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co3a9u.jpg",
+    "genres": "Platform, Role-playing (RPG), Adventure"
   },
   "deathbound – ultimate edition": {
     "imageUrl": null,
-    "genres": null
+    "genres": "Shooter, Indie, Arcade"
   },
   "deathloop ": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co4nzt.jpg",
+    "genres": "Shooter, Adventure"
   },
   "debris: xbox one edition": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co324i.jpg",
+    "genres": "Puzzle"
   },
   "decay collection": {
-    "imageUrl": null,
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co5t5q.jpg",
     "genres": null
   },
   "deceive inc. black tie edition": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co62op.jpg",
+    "genres": "Shooter, Tactical, Indie"
   },
   "deck of ashes: complete edition": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co4n7n.jpg",
+    "genres": "Role-playing (RPG), Strategy, Adventure, Card & Board Game"
   },
   "deeeer simulator: tu juego de ciervos cotidiano estándar": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co1whm.jpg",
+    "genres": "Simulator, Indie"
   },
   "deep diving adventures": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co21qo.jpg",
+    "genres": "Simulator, Sport, Adventure"
   },
   "deep sky derelicts: definitive edition": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co20sh.jpg",
+    "genres": "Role-playing (RPG), Strategy, Indie, Card & Board Game"
   },
   "degrees of separation": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co1rhd.jpg",
+    "genres": "Platform, Puzzle, Adventure, Indie, Arcade"
   },
   "deiland: pocket planet": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2wpm.jpg",
+    "genres": "Role-playing (RPG), Simulator, Adventure, Indie"
   },
   "deliver us the moon": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co20yy.jpg",
+    "genres": "Puzzle, Adventure, Indie"
   },
   "democracy 4: console edition": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co875s.jpg",
+    "genres": "Simulator, Strategy"
   },
   "demon hunter collection": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co69ti.jpg",
+    "genres": "Puzzle, Adventure"
   },
   "demon hunter: ascendance": {
-    "imageUrl": null,
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co8rqq.jpg",
     "genres": null
   },
   "demon hunter: new chapter (xbox version)": {
-    "imageUrl": null,
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co8rqq.jpg",
     "genres": null
   },
   "demon hunter: revelation": {
-    "imageUrl": null,
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co8rqq.jpg",
     "genres": null
   },
   "demon slayer -kimetsu no yaiba- the hinokami chronicles": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co3dlc.jpg",
+    "genres": "Fighting, Adventure"
   },
   "demon slayer -kimetsu no yaiba- the hinokami chronicles digital deluxe edition": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co3dlc.jpg",
+    "genres": "Fighting, Adventure"
   },
   "demon turf": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co40o4.jpg",
+    "genres": "Platform, Adventure, Indie"
   },
   "demonic bundle": {
-    "imageUrl": null,
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co4ipw.jpg",
     "genres": null
   },
   "demonic tales bundle": {
-    "imageUrl": null,
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co61y7.jpg",
     "genres": null
   },
   "deponia collection": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2497.jpg",
+    "genres": "Point-and-click, Puzzle, Adventure, Indie"
   },
   "deponia doomsday": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co1qqp.jpg",
+    "genres": "Point-and-click, Puzzle, Adventure, Indie"
   },
   "depth of extinction": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co3xxi.jpg",
+    "genres": "Role-playing (RPG), Strategy, Turn-based strategy (TBS), Tactical"
   },
   "desolatium": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co3vbv.jpg",
+    "genres": "Point-and-click, Puzzle, Adventure"
   },
   "despot's game": {
     "imageUrl": null,
     "genres": null
   },
   "despot's game collector's edition": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co5fwx.jpg",
+    "genres": "Strategy, Adventure"
   },
   "despotism 3k": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co28x8.jpg",
+    "genres": "Simulator, Strategy, Indie"
   },
   "detective - minerva case": {
-    "imageUrl": null,
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co9cxb.jpg",
     "genres": null
   },
   "devil engine: complete edition": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co7gau.jpg",
+    "genres": "Shooter, Arcade"
   },
   "diablo ii resurrected - prime evil collection": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co3gng.jpg",
+    "genres": "Role-playing (RPG), Hack and slash/Beat 'em up, Adventure"
   },
   "diablo iii: eternal collection": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2dha.jpg",
+    "genres": "Role-playing (RPG), Adventure"
   },
   "dice legacy definitive edition": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co6qzu.jpg",
+    "genres": "Real Time Strategy (RTS), Strategy, Indie"
   },
   "dicey dungeons": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co8297.jpg",
+    "genres": "Indie, Card & Board Game"
   },
   "digimon survive": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co527f.jpg",
+    "genres": "Role-playing (RPG), Simulator, Strategy, Turn-based strategy (TBS), Adventure"
   },
   "dinosaurs: mission dino camp": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co6sr4.jpg",
+    "genres": "Adventure"
   },
   "dirt 5": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2e5b.jpg",
+    "genres": "Racing, Simulator, Sport, Adventure"
   },
   "dirt 5 year one edition": {
-    "imageUrl": null,
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co3ke1.jpg",
     "genres": null
   },
   "dirt rally 2.0": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co1sro.jpg",
+    "genres": "Racing, Simulator, Sport, Strategy"
   },
   "dirt rally 2.0 - game of the year edition": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co1sro.jpg",
+    "genres": "Racing, Simulator, Sport, Strategy"
   },
   "disciples: liberation digital deluxe edition": {
     "imageUrl": null,
     "genres": null
   },
   "disco elysium - the final cut": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2ip6.jpg",
+    "genres": "Role-playing (RPG), Adventure"
   },
   "discovery tour: viking age": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co4hk3.jpg",
+    "genres": "Simulator, Adventure"
   },
   "disgaea 4 complete+": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co1r4x.jpg",
+    "genres": "Role-playing (RPG), Strategy"
   },
   "disjunction": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co8osl.jpg",
+    "genres": "Shooter"
   },
   "disney dreamlight valley": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co4p0c.jpg",
+    "genres": "Role-playing (RPG), Simulator, Adventure"
   },
   "disney dreamlight valley: a rift in time": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co7czh.jpg",
+    "genres": "Role-playing (RPG), Simulator, Adventure"
   },
   "disney epic mickey: rebrushed": {
     "imageUrl": null,
     "genres": null
   },
   "distraint collection": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co57ek.jpg",
+    "genres": "Adventure"
   },
   "divinity: original sin - enhanced edition": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2v6a.jpg",
+    "genres": "Role-playing (RPG), Strategy, Turn-based strategy (TBS), Tactical, Adventure, Indie"
   },
   "divinity: original sin. la saga de la fuente": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co26ey.jpg",
+    "genres": "Role-playing (RPG)"
   },
   "djmax respect v": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co9ktk.jpg",
+    "genres": "Music, Arcade"
   },
   "doctor who: the edge of reality": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2oqr.jpg",
+    "genres": "Puzzle, Adventure"
   },
   "dodgeball academia": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co3h52.jpg",
+    "genres": "Role-playing (RPG), Sport, Adventure, Indie, Arcade"
   },
   "doki doki literature club plus!": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co7qyu.jpg",
+    "genres": "Role-playing (RPG), Simulator, Adventure, Indie, Visual Novel"
   },
   "dolmen": {
     "imageUrl": null,
-    "genres": null
+    "genres": "Puzzle"
   },
   "don't be afraid": {
     "imageUrl": null,
     "genres": null
   },
   "doom & destiny worlds": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2ht3.jpg",
+    "genres": "Role-playing (RPG), Adventure, Indie"
   },
   "doom & destiny worlds - ultimate supporter edition": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2ht3.jpg",
+    "genres": "Role-playing (RPG), Adventure, Indie"
   },
   "door kickers: action squad": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co20zt.jpg",
+    "genres": "Shooter, Platform, Real Time Strategy (RTS), Simulator, Strategy, Tactical, Indie"
   },
   "double dragon gaiden: rise of the dragons": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co6g6l.jpg",
+    "genres": "Fighting, Hack and slash/Beat 'em up, Adventure, Arcade"
   },
   "double kick heroes": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2eo5.jpg",
+    "genres": "Fighting, Shooter, Music, Indie, Arcade"
   },
   "doubledragon advance": {
     "imageUrl": null,
@@ -2264,19 +2168,15 @@
     "genres": null
   },
   "down in bermuda": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2j04.jpg",
+    "genres": "Point-and-click, Puzzle, Role-playing (RPG), Adventure, Indie, Arcade"
   },
   "dracula's legacy remastered": {
-    "imageUrl": null,
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co4e1j.jpg",
     "genres": null
   },
-  "dragon's dogma 2 deluxe edition": {
-    "imageUrl": "https://cdn-ext.fanatical.com/production/product/1280x720/0dedb1c3-55d0-408e-95fc-7007d31881bc.jpeg",
-    "genres": "RPG"
-  },
   "dragon ball sparking! zero": {
-    "imageUrl": null,
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co9q72.jpg",
     "genres": null
   },
   "dragon ball xenoverse 2 edición especial": {
@@ -2284,28 +2184,28 @@
     "genres": null
   },
   "dragon ball z: kakarot": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2kqa.jpg",
+    "genres": "Role-playing (RPG), Hack and slash/Beat 'em up, Adventure"
   },
   "dragon ball z: kakarot edición legendaria ": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co4l0v.jpg",
+    "genres": "Fighting"
   },
   "dragon ball: the breakers": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co49nn.jpg",
+    "genres": "Fighting"
   },
   "dragon ball: the breakers special edition": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co4vw1.jpg",
+    "genres": "Hack and slash/Beat 'em up, Adventure"
   },
   "dragon lapis": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2kej.jpg",
+    "genres": "Role-playing (RPG), Simulator, Strategy, Turn-based strategy (TBS), Adventure, Indie"
   },
   "dragon quest builders 2": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co61vn.jpg",
+    "genres": "Role-playing (RPG), Adventure"
   },
   "dragon quest® xi s: ecos de un pasado perdido - edición definitiva": {
     "imageUrl": null,
@@ -2316,192 +2216,192 @@
     "genres": null
   },
   "dragon's lair trilogy": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co249y.jpg",
+    "genres": "Puzzle, Adventure, Arcade"
   },
   "dragonfangz - the rose＆dungeon of time": {
     "imageUrl": null,
     "genres": null
   },
   "drake hollow": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2xs8.jpg",
+    "genres": "Adventure, Indie"
   },
   "draugen": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co7soc.jpg",
+    "genres": "Puzzle, Adventure, Indie"
   },
   "dreadout 2": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co1zzt.jpg",
+    "genres": "Adventure, Indie"
   },
   "dreamers": {
     "imageUrl": null,
     "genres": null
   },
   "dreamscaper": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co4r1m.jpg",
+    "genres": "Adventure"
   },
   "dreamworks all-star kart racing": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co6ubu.jpg",
+    "genres": "Racing, Arcade"
   },
   "dreamworks all-star kart racing rally edition": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co7bk0.jpg",
+    "genres": "Racing, Arcade"
   },
   "dreamworks dragones: leyendas de los nueve reinos": {
     "imageUrl": null,
     "genres": null
   },
   "dreamworks dragons dawn of new riders": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co3oyu.jpg",
+    "genres": "Role-playing (RPG), Adventure"
   },
   "dreamworks spirit la gran aventura de fortu": {
     "imageUrl": null,
     "genres": null
   },
   "dreamworks trolls remix rescue": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co7cjs.jpg",
+    "genres": "Platform, Adventure"
   },
   "dreamworks trolls remix rescue deluxe edition": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co7cjs.jpg",
+    "genres": "Platform, Adventure"
   },
   "dredge - digital deluxe edition": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co9kyk.jpg",
+    "genres": "Role-playing (RPG), Simulator, Adventure"
   },
   "driftce": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co6h4w.jpg",
+    "genres": "Racing, Simulator, Sport"
   },
   "driving essentials": {
-    "imageUrl": null,
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co1lnp.jpg",
     "genres": null
   },
   "duck detective: the secret salami": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co7gxl.jpg",
+    "genres": "Point-and-click, Puzzle, Adventure, Indie"
   },
   "dune: imperium": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co7ctn.jpg",
+    "genres": "Simulator, Strategy, Turn-based strategy (TBS), Card & Board Game"
   },
   "dungeon and gravestone": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co38u0.jpg",
+    "genres": "Puzzle, Racing, Role-playing (RPG), Indie"
   },
   "dungeon defenders: awakened": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2q0g.jpg",
+    "genres": "Role-playing (RPG), Strategy, Adventure, Indie"
   },
   "dungeon drafters": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co5bsh.jpg",
+    "genres": "Puzzle, Role-playing (RPG), Strategy, Turn-based strategy (TBS), Adventure, Indie, Card & Board Game"
   },
   "dungeons 3 - complete collection": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2fm9.jpg",
+    "genres": "Real Time Strategy (RTS), Role-playing (RPG), Simulator, Strategy, Adventure"
   },
   "dungeons 4": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co6q55.jpg",
+    "genres": "Real Time Strategy (RTS), Simulator, Strategy"
   },
   "dungeons 4 - digital deluxe edition ": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co6q55.jpg",
+    "genres": "Real Time Strategy (RTS), Simulator, Strategy"
   },
   "dungeons of hinterberg": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co8oq4.jpg",
+    "genres": "Role-playing (RPG), Hack and slash/Beat 'em up, Adventure, Indie"
   },
   "dustoff z": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2gbv.jpg",
+    "genres": "Shooter, Adventure, Arcade"
   },
   "dwarrows": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co1wn9.jpg",
+    "genres": "Platform, Puzzle, Role-playing (RPG), Simulator, Strategy, Adventure, Indie"
   },
   "dying light 1 + dying light 2": {
     "imageUrl": null,
     "genres": null
   },
   "dying light 2 + call of juarez gunslinger": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co65yk.jpg",
+    "genres": "Role-playing (RPG), Adventure"
   },
   "dying light 2: stay human - reloaded edition": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co92fq.jpg",
+    "genres": "Shooter, Role-playing (RPG)"
   },
   "dying light: enhanced edition": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co9er7.jpg",
+    "genres": "Shooter, Role-playing (RPG), Adventure"
   },
   "dyna bomb 2": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co5oxd.jpg",
+    "genres": "Platform, Adventure, Indie, Arcade"
   },
   "dysmantle": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co1ixi.jpg",
+    "genres": "Puzzle, Role-playing (RPG), Simulator, Adventure, Indie"
   },
   "eastern exorcist": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co98my.jpg",
+    "genres": "Platform, Role-playing (RPG), Strategy, Hack and slash/Beat 'em up, Adventure, Indie"
   },
   "eastward": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co3tul.jpg",
+    "genres": "Role-playing (RPG), Simulator, Adventure, Indie"
   },
   "easy red 2": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co578s.jpg",
+    "genres": "Shooter, Simulator, Strategy, Tactical, Indie"
   },
   "ebenezer and the invisible world": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co6m28.jpg",
+    "genres": "Platform, Adventure, Indie"
   },
   "echo generation": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2e55.jpg",
+    "genres": "Role-playing (RPG), Strategy, Adventure, Indie"
   },
   "ed-0: zombie uprising": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co74h7.jpg",
+    "genres": "Hack and slash/Beat 'em up, Adventure, Indie"
   },
   "edgar - bokbok in boulzac": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co5gmf.jpg",
+    "genres": "Strategy, Adventure, Indie"
   },
   "edge of eternity": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co8q9v.jpg",
+    "genres": "Role-playing (RPG), Strategy, Turn-based strategy (TBS), Adventure, Indie"
   },
   "edición especial de umurangi generation": {
     "imageUrl": null,
     "genres": null
   },
   "edna & harvey: the breakout - anniversary edition": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/cg5jele28ikhzg3xbvix.jpg",
+    "genres": "Point-and-click, Puzzle, Adventure, Indie"
   },
   "eiyuden chronicle: hundred heroes ": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co72zh.jpg",
+    "genres": "Role-playing (RPG), Strategy, Adventure, Indie"
   },
   "eiyuden chronicle: hundred heroes - digital deluxe edition ": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co76sv.jpg",
+    "genres": "Role-playing (RPG), Adventure"
   },
   "eiyuden chronicle: rising": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co4sxy.jpg",
+    "genres": "Role-playing (RPG), Adventure, Indie"
   },
   "el cristal encantado táctico: la era de la resistencia": {
     "imageUrl": null,
@@ -2512,16 +2412,16 @@
     "genres": null
   },
   "el hijo - a wild west tale": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co3jfm.jpg",
+    "genres": "Puzzle, Strategy, Adventure, Indie"
   },
   "el paquete de terror psicológico": {
     "imageUrl": null,
     "genres": null
   },
   "el paso, elsewhere": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co321v.jpg",
+    "genres": "Shooter"
   },
   "el reino robado": {
     "imageUrl": null,
@@ -2532,160 +2432,160 @@
     "genres": null
   },
   "elden ring shadow of the erdtree deluxe edition": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co7so1.jpg",
+    "genres": "Role-playing (RPG), Adventure"
   },
   "elden ring shadow of the erdtree deluxe edition ": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co7so1.jpg",
+    "genres": "Role-playing (RPG), Adventure"
   },
   "eldest souls": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co20yj.jpg",
+    "genres": "Role-playing (RPG), Adventure, Indie"
   },
   "eldgear": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co7frv.jpg",
+    "genres": "Role-playing (RPG), Simulator, Strategy, Adventure"
   },
   "elemental war 2": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co3hb3.jpg",
+    "genres": "Real Time Strategy (RTS), Role-playing (RPG), Strategy, Indie"
   },
   "elex ii": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co39yr.jpg",
+    "genres": "Role-playing (RPG), Adventure"
   },
   "ember: console edition": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co9ay5.jpg",
+    "genres": "Role-playing (RPG), Strategy"
   },
   "embr": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co9fsv.jpg",
+    "genres": "Platform, Puzzle, Simulator, Strategy, Indie"
   },
   "embraced by autumn": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co3pvb.jpg",
+    "genres": "Adventure, Visual Novel"
   },
   "emergency call - the attack squad": {
     "imageUrl": null,
     "genres": null
   },
   "empty shell": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co78ni.jpg",
+    "genres": "Shooter, Adventure, Indie, Arcade"
   },
   "enchanted portals": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co292e.jpg",
+    "genres": "Shooter, Platform, Indie, Arcade"
   },
   "enclave hd": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co6r0t.jpg",
+    "genres": "Platform, Role-playing (RPG), Hack and slash/Beat 'em up, Adventure"
   },
   "encodya": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co1uos.jpg",
+    "genres": "Point-and-click, Puzzle, Adventure"
   },
   "ender lilies: quietus of the knights": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co9s9e.jpg",
+    "genres": "Platform, Role-playing (RPG), Adventure, Indie"
   },
   "ender magnolia: bloom in the mist": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co8gk1.jpg",
+    "genres": "Platform, Role-playing (RPG), Adventure, Indie"
   },
   "endless fables: shadow within": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co3rhc.jpg",
+    "genres": "Point-and-click, Puzzle, Adventure"
   },
   "endless memories": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2jwd.jpg",
+    "genres": "Platform, Role-playing (RPG), Adventure, Indie"
   },
   "endless™ dungeon": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2mgb.jpg",
+    "genres": "Role-playing (RPG), Strategy, Tactical"
   },
   "endless™ dungeon last wish edition": {
-    "imageUrl": null,
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co6zjm.jpg",
     "genres": null
   },
   "endling - extinction is forever": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co6f8v.jpg",
+    "genres": "Puzzle, Simulator, Adventure, Indie"
   },
   "endzone - a world apart: complete edition": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/uzrnty8x9qqibfoizzey.jpg",
+    "genres": "Sport"
   },
   "epitasis": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co3py1.jpg",
+    "genres": "Puzzle, Adventure, Indie"
   },
   "escape academy - deluxe edition ": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co70jz.jpg",
+    "genres": "Puzzle, Adventure"
   },
   "escape game - fort boyard 2022": {
     "imageUrl": null,
     "genres": null
   },
   "escape room bundle": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co6ayx.jpg",
+    "genres": "Puzzle, Adventure"
   },
   "estamos muertos": {
     "imageUrl": null,
     "genres": null
   },
   "eternal threads": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co4rjg.jpg",
+    "genres": "Puzzle, Adventure, Indie"
   },
   "euphoria games bundle": {
-    "imageUrl": null,
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co88wf.jpg",
     "genres": null
   },
   "everdream valley": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co7vr5.jpg",
+    "genres": "Role-playing (RPG), Simulator, Strategy, Adventure, Indie, Arcade"
   },
   "everreach: project eden": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co1rgy.jpg",
+    "genres": "Shooter, Role-playing (RPG), Indie"
   },
   "evil dead: the game - game of the year edition ": {
-    "imageUrl": null,
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co6d7s.jpg",
     "genres": null
   },
   "evil genius 2: world domination": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2urs.jpg",
+    "genres": "Real Time Strategy (RTS), Simulator, Strategy"
   },
   "evil genius 2: world domination deluxe edition": {
-    "imageUrl": null,
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co4e0i.jpg",
     "genres": null
   },
   "evil nun: the broken mask": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co3qfk.jpg",
+    "genres": "Puzzle, Adventure, Indie"
   },
   "evil west": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co4udq.jpg",
+    "genres": "Shooter, Hack and slash/Beat 'em up, Adventure"
   },
   "exoprimal deluxe edition ": {
-    "imageUrl": null,
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co6sin.jpg",
     "genres": null
   },
   "exzeus: the complete collection": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co7gw4.jpg",
+    "genres": "Shooter, Arcade"
   },
   "f.i.s.t.: forged in shadow torch": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co3ua0.jpg",
+    "genres": "Platform, Role-playing (RPG), Simulator, Adventure, Indie"
   },
   "f1® 24": {
     "imageUrl": null,
@@ -2708,44 +2608,44 @@
     "genres": null
   },
   "fable anniversary": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co22lr.jpg",
+    "genres": "Role-playing (RPG), Adventure"
   },
   "fabledom": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co842c.jpg",
+    "genres": "Simulator, Strategy, Indie"
   },
   "fae farm - edición deluxe": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co6qig.jpg",
+    "genres": "Role-playing (RPG), Simulator, Adventure"
   },
   "fae tactics": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co3wnm.jpg",
+    "genres": "Role-playing (RPG), Strategy, Turn-based strategy (TBS), Tactical, Indie"
   },
   "faeria: game + all dlc bundle": {
-    "imageUrl": null,
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co6zth.jpg",
     "genres": null
   },
   "faeria: premium bundle": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co1mwi.jpg",
+    "genres": "Puzzle, Role-playing (RPG), Strategy, Turn-based strategy (TBS), Tactical, Adventure, Indie, Card & Board Game"
   },
   "fairy elements": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co7gw9.jpg",
+    "genres": "Role-playing (RPG), Simulator, Strategy, Adventure"
   },
   "fall of porcupine": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co6lvj.jpg",
+    "genres": "Platform, Puzzle, Adventure, Indie"
   },
   "fall of the new age - collectors edition": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co6sr0.jpg",
+    "genres": "Puzzle, Strategy, Adventure, Arcade"
   },
   "fallen legion revenants": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2nwd.jpg",
+    "genres": "Real Time Strategy (RTS), Role-playing (RPG), Strategy, Adventure"
   },
   "fallen legion: rise to glory": {
     "imageUrl": null,
@@ -2756,27 +2656,27 @@
     "genres": null
   },
   "fallout 76": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co1yc4.jpg",
+    "genres": "Shooter, Role-playing (RPG)"
   },
   "fallout 76: gleaming depths deluxe edition": {
-    "imageUrl": null,
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co9esm.jpg",
     "genres": null
   },
   "fantasy general ii: invasion": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co1q4m.jpg",
+    "genres": "Role-playing (RPG), Strategy, Turn-based strategy (TBS), Tactical, Card & Board Game"
   },
   "far cry 3, 4 y 5": {
     "imageUrl": null,
     "genres": null
   },
   "far cry 4 gold edition": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2pb6.jpg",
+    "genres": "Shooter, Tactical, Adventure"
   },
   "far cry anthology": {
-    "imageUrl": null,
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co4e14.jpg",
     "genres": null
   },
   "far cry® 5 + far cry® new dawn deluxe edition": {
@@ -2804,108 +2704,100 @@
     "genres": null
   },
   "far-out": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co24er.jpg",
+    "genres": "Role-playing (RPG), Simulator, Adventure, Indie"
   },
   "far: changing tides": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co39qz.jpg",
+    "genres": "Platform, Puzzle, Adventure, Indie"
   },
   "far: lone sails": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co27qa.jpg",
+    "genres": "Platform, Puzzle, Simulator, Adventure, Indie"
   },
   "faraday protocol": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2swm.jpg",
+    "genres": "Puzzle, Role-playing (RPG), Adventure, Indie"
   },
   "farm & survive bundle": {
-    "imageUrl": null,
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co5fbf.jpg",
     "genres": null
   },
   "farm for your life": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co869b.jpg",
+    "genres": "Puzzle, Simulator, Strategy, Adventure, Indie"
   },
   "farm manager 2022": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co4jse.jpg",
+    "genres": "Simulator, Strategy"
   },
   "farm together": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co4i40.jpg",
+    "genres": "Simulator, Strategy, Indie"
   },
   "farm tycoon": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co4pet.jpg",
+    "genres": "Simulator, Strategy"
   },
   "farming simulator 17 ambassador edition": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co31co.jpg",
+    "genres": "Simulator"
   },
   "farming simulator 19": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co4ami.jpg",
+    "genres": "Simulator"
   },
   "farming simulator 19 - platinum edition": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co4ami.jpg",
+    "genres": "Simulator"
   },
   "farming simulator 19 - premium edition": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co4ami.jpg",
+    "genres": "Simulator"
   },
   "farming simulator 22": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co90bl.jpg",
+    "genres": "Simulator"
   },
   "farming simulator 22 - premium edition": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co90bl.jpg",
+    "genres": "Simulator"
   },
   "fashion police squad": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2kah.jpg",
+    "genres": "Shooter, Platform, Adventure, Indie"
   },
   "fast & furious: spy racers el retorno de sh1ft3r": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co3grr.jpg",
+    "genres": "Racing"
   },
   "fast & furious: spy racers el retorno de sh1ft3r - edición completa": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co3grr.jpg",
+    "genres": "Racing"
   },
   "fatal frame: maiden of black water": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2zcv.jpg",
+    "genres": "Puzzle, Strategy, Adventure"
   },
   "fatal frame: maiden of black water digital deluxe edition": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co90v3.jpg",
+    "genres": "Adventure"
   },
   "fatal frame: mask of the lunar eclipse": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co6065.jpg",
+    "genres": "Adventure"
   },
   "fatal frame: mask of the lunar eclipse digital deluxe edition": {
-    "imageUrl": null,
-    "genres": null
-  },
-  "fc 24": {
-    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQljTsJz0eq-dZZhr_Zf3f40KPOh76fPd5gA&s",
-    "genres": "Simulación - Deporte"
-  },
-  "fc 25": {
-    "imageUrl": "https://assets.goal.com/images/v3/blt178d34156522b281/GOAL%20-%20Blank%20WEB%20-%20Facebook%20-%202024-07-17T151013.046.jpg?auto=webp&format=pjpg&width=3840&quality=60",
-    "genres": "Simulación - Deporte"
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co90v3.jpg",
+    "genres": "Adventure"
   },
   "fearsome shadows bundle": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co1sc4.jpg",
+    "genres": "Puzzle, Adventure"
   },
   "fell seal: arbiter's mark": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co1k9m.jpg",
+    "genres": "Role-playing (RPG), Strategy, Turn-based strategy (TBS), Tactical, Adventure, Indie"
   },
   "fernbus simulator": {
     "imageUrl": null,
@@ -2916,168 +2808,164 @@
     "genres": null
   },
   "fights in tight spaces: complete edition": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co76sa.jpg",
+    "genres": "Fighting, Strategy"
   },
   "figment 2: creed valley": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co3m7p.jpg",
+    "genres": "Music, Puzzle, Adventure, Indie"
   },
   "figment: journey into the mind": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co691d.jpg",
+    "genres": "Music, Platform, Puzzle, Adventure, Indie"
   },
   "filthy animals | heist simulator": {
     "imageUrl": null,
     "genres": null
   },
-  "final fantasy xvi complete edition": {
-    "imageUrl": "https://gaming-cdn.com/images/products/17418/orig/final-fantasy-xvi-complete-edition-complete-edition-pc-spel-steam-cover.jpg?v=1736437472",
-    "genres": "RPG"
-  },
   "final fantasy vii": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co1vn2.jpg",
+    "genres": "Role-playing (RPG), Adventure"
   },
   "final fantasy vii windows edition": {
     "imageUrl": null,
     "genres": null
   },
   "final fantasy viii remastered": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2z8z.jpg",
+    "genres": "Role-playing (RPG), Adventure"
   },
   "final fantasy viii remastered windows edition - pc": {
     "imageUrl": null,
     "genres": null
   },
   "final fantasy x/x-2 hd remaster": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2zpl.jpg",
+    "genres": "Role-playing (RPG), Strategy"
   },
   "final fantasy xii the zodiac age": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2g6o.jpg",
+    "genres": "Role-playing (RPG), Adventure"
   },
   "final vendetta": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co4p1b.jpg",
+    "genres": "Fighting, Hack and slash/Beat 'em up, Indie, Arcade"
   },
   "finis": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co5azx.jpg",
+    "genres": "Platform, Adventure, Indie"
   },
   "firefighting simulator - the squad": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co1xli.jpg",
+    "genres": "Simulator, Strategy"
   },
   "firegirl: hack 'n splash rescue dx": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co4zhp.jpg",
+    "genres": "Shooter, Platform, Adventure"
   },
   "firewatch": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co1m35.jpg",
+    "genres": "Adventure, Indie"
   },
   "first responder simulation bundle: police firefighting ": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co80gh.jpg",
+    "genres": "Simulator"
   },
   "fishing planet - christmas bundle": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co1tw7.jpg",
+    "genres": "Simulator, Sport"
   },
   "fishing planet - halloween bundle": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co1tw7.jpg",
+    "genres": "Simulator, Sport"
   },
   "fishing sim world: pro tour + the catch: carp & coarse": {
-    "imageUrl": null,
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co3kb4.jpg",
     "genres": null
   },
   "fishing: north atlantic enhanced edition": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co89hr.jpg",
+    "genres": "Role-playing (RPG), Simulator, Sport, Indie"
   },
   "fission superstar x": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co249x.jpg",
+    "genres": "Role-playing (RPG), Indie"
   },
   "five nights at freddy's": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co8het.jpg",
+    "genres": "Simulator, Strategy, Adventure, Indie"
   },
   "five nights at freddy's 2": {
-    "imageUrl": null,
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co9ncz.jpg",
     "genres": null
   },
   "five nights at freddy's 3": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co8ehc.jpg",
+    "genres": "Platform, Arcade"
   },
   "five nights at freddy's 4": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co8efh.jpg",
+    "genres": "Point-and-click, Simulator, Strategy, Adventure, Indie"
   },
   "five nights at freddy's into the pit": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co8rf0.jpg",
+    "genres": "Puzzle, Adventure, Indie"
   },
   "five nights at freddy's: help wanted": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co6975.jpg",
+    "genres": "Point-and-click, Puzzle, Role-playing (RPG), Strategy"
   },
   "five nights at freddy's: security breach": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co4aro.jpg",
+    "genres": "Simulator, Strategy, Adventure, Indie"
   },
   "five nights at freddy's: serie original": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co8het.jpg",
+    "genres": "Simulator, Strategy, Adventure, Indie"
   },
   "five nights at freddy's: sister location": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co7206.jpg",
+    "genres": "Indie"
   },
   "flashout 3": {
     "imageUrl": null,
     "genres": null
   },
   "flippin kaktus": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co399l.jpg",
+    "genres": "Fighting, Platform, Adventure, Indie"
   },
   "flooded": {
     "imageUrl": null,
     "genres": null
   },
   "fluffy horde + clumsy rush": {
-    "imageUrl": null,
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co5zhx.jpg",
     "genres": null
   },
   "flynn: son of crimson": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co3tyz.jpg",
+    "genres": "Platform, Role-playing (RPG), Adventure, Indie"
   },
   "fmv action": {
-    "imageUrl": null,
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co7uf6.jpg",
     "genres": null
   },
   "fmv detective": {
-    "imageUrl": null,
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co7uf3.jpg",
     "genres": null
   },
   "fmv horror bundle": {
-    "imageUrl": null,
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co65wf.jpg",
     "genres": null
   },
   "fmv murder mystery bundle": {
-    "imageUrl": null,
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co7uf5.jpg",
     "genres": null
   },
   "fobia - st. dinfna hotel": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co4l4i.jpg",
+    "genres": "Puzzle, Adventure, Indie"
   },
   "football manager 2024 console ": {
     "imageUrl": null,
@@ -3085,62 +2973,62 @@
   },
   "football, tactics & glory": {
     "imageUrl": null,
-    "genres": null
+    "genres": "Simulator, Sport, Strategy, Indie"
   },
   "for the king": {
     "imageUrl": null,
     "genres": null
   },
   "forager": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co86yq.jpg",
+    "genres": "Puzzle, Role-playing (RPG), Simulator, Strategy, Adventure, Indie"
   },
   "foregone": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2j3d.jpg",
+    "genres": "Platform, Adventure, Indie"
   },
   "forest grove": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co3gkx.jpg",
+    "genres": "Simulator, Adventure, Indie"
   },
   "forgive me father": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co6bkp.jpg",
+    "genres": "Shooter, Indie"
   },
   "forgotton anne": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co1r68.jpg",
+    "genres": "Platform, Puzzle, Role-playing (RPG), Adventure, Indie"
   },
   "forklift simulator": {
     "imageUrl": null,
-    "genres": null
+    "genres": "Puzzle, Racing, Simulator, Arcade"
   },
   "forspoken - pc": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co4u6r.jpg",
+    "genres": "Role-playing (RPG), Adventure"
   },
   "forspoken digital deluxe edition - pc": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co4bjo.jpg",
+    "genres": "Role-playing (RPG), Adventure"
   },
   "fort triumph": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co27qo.jpg",
+    "genres": "Role-playing (RPG), Strategy, Turn-based strategy (TBS), Tactical, Indie"
   },
   "forza horizon 5 - deluxe edition": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co45k9.jpg",
+    "genres": "Racing, Sport"
   },
   "forza horizon 5 premium edition": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co45k9.jpg",
+    "genres": "Racing, Sport"
   },
   "forza motorsport deluxe edition ": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co77z7.jpg",
+    "genres": "Racing, Simulator, Sport"
   },
   "forza motorsport premium edition ": {
-    "imageUrl": null,
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co76gc.jpg",
     "genres": null
   },
   "forza motorsport standard edition ": {
@@ -3148,100 +3036,100 @@
     "genres": null
   },
   "fossilfuel 2": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co7u6t.jpg",
+    "genres": "Shooter, Role-playing (RPG), Adventure, Indie"
   },
   "fran bow": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co8lrn.jpg",
+    "genres": "Point-and-click, Puzzle, Adventure, Indie, Arcade"
   },
   "freediving hunter: spearfishing the world": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co3zxx.jpg",
+    "genres": "Simulator, Sport, Adventure, Indie"
   },
   "frog detective: el misterio completo": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co9hf0.jpg",
+    "genres": "Adventure"
   },
   "front mission 1st: remake": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co59tw.jpg",
+    "genres": "Role-playing (RPG), Strategy, Turn-based strategy (TBS)"
   },
   "frontier pilot simulator": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co24i9.jpg",
+    "genres": "Simulator, Adventure, Indie"
   },
   "frostpunk: complete collection": {
-    "imageUrl": null,
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co3kdb.jpg",
     "genres": null
   },
   "fueled up": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co4nzg.jpg",
+    "genres": "Simulator, Adventure, Indie, Arcade"
   },
   "fuga: melodies of steel 2 - edición deluxe": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co7e78.jpg",
+    "genres": "Adventure"
   },
   "full quiet": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2q7c.jpg",
+    "genres": "Platform, Puzzle, Adventure"
   },
   "full void": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co6w1s.jpg",
+    "genres": "Platform, Puzzle, Adventure, Indie"
   },
   "fury of dracula: digital edition": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2kh9.jpg",
+    "genres": "Role-playing (RPG), Strategy, Indie, Card & Board Game"
   },
   "fury unleashed": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2dis.jpg",
+    "genres": "Shooter, Platform, Role-playing (RPG), Adventure, Indie"
   },
   "gaijin charenji 1 : kiss or kill": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2wkt.jpg",
+    "genres": "Shooter, Adventure, Indie, Arcade"
   },
   "gal guardians: demon purge": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co68y5.jpg",
+    "genres": "Platform, Adventure"
   },
   "gale of windoria": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co52n3.jpg",
+    "genres": "Role-playing (RPG), Simulator, Strategy, Adventure"
   },
   "ganryu 2": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co4htv.jpg",
+    "genres": "Platform, Hack and slash/Beat 'em up, Indie, Arcade"
   },
   "garden bundle": {
-    "imageUrl": null,
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co3key.jpg",
     "genres": null
   },
   "garden simulator": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co56v9.jpg",
+    "genres": "Simulator"
   },
   "garfield lasagna party": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co5pdy.jpg",
+    "genres": "Puzzle, Quiz/Trivia, Adventure, Arcade"
   },
   "gargoyles remastered": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co71wz.jpg",
+    "genres": "Platform, Adventure"
   },
   "gears 5 - goty edition": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2oz5.jpg",
+    "genres": "Shooter, Adventure"
   },
   "gears of war ultimate edition - deluxe edition": {
-    "imageUrl": null,
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co3kdc.jpg",
     "genres": null
   },
   "gelly break deluxe": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co417z.jpg",
+    "genres": "Platform, Adventure, Indie, Arcade"
   },
   "generation zero®": {
     "imageUrl": null,
@@ -3252,40 +3140,40 @@
     "genres": null
   },
   "genesis alpha one": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co1i2h.jpg",
+    "genres": "Shooter, Role-playing (RPG), Simulator, Adventure, Indie"
   },
   "genetic disaster": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2c8r.jpg",
+    "genres": "Shooter, Adventure, Indie, Arcade"
   },
   "get packed": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2q8i.jpg",
+    "genres": "Simulator, Indie"
   },
   "ghost recon® wildlands - year 2 gold edition": {
     "imageUrl": null,
     "genres": null
   },
   "ghost song": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co4koz.jpg",
+    "genres": "Platform, Role-playing (RPG), Adventure, Indie"
   },
   "ghostbusters: spirits unleashed ecto edition": {
     "imageUrl": null,
     "genres": null
   },
   "ghostbusters: the video game remastered": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co1o1f.jpg",
+    "genres": "Shooter, Adventure"
   },
   "ghostlore": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co4kep.jpg",
+    "genres": "Role-playing (RPG), Hack and slash/Beat 'em up, Indie"
   },
   "ghostrunner": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2nbk.jpg",
+    "genres": "Shooter, Platform, Adventure"
   },
   "ghostrunner 2": {
     "imageUrl": null,
@@ -3300,823 +3188,819 @@
     "genres": null
   },
   "ghostrunner game bundle": {
-    "imageUrl": null,
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co7rvg.jpg",
     "genres": null
   },
   "ghostrunner: complete edition": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co4xjz.jpg",
+    "genres": "Shooter, Platform, Adventure"
   },
   "ghosts 'n goblins resurrection": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co5tpo.jpg",
+    "genres": "Platform, Adventure"
   },
   "ghostwire: tokyo": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/rfayiuzryriced9g4c1k.jpg",
+    "genres": "Adventure"
   },
   "ghostwire: tokyo deluxe edition ": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co4iq2.jpg",
+    "genres": "Adventure"
   },
   "ghoulboy": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co24j5.jpg",
+    "genres": "Platform, Role-playing (RPG), Adventure, Indie, Arcade"
   },
   "giga wrecker alt.": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co8251.jpg",
+    "genres": "Platform, Puzzle"
   },
   "gigantosaurus the game": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co20m0.jpg",
+    "genres": "Platform, Racing, Adventure"
   },
   "giraffe and annika（ジラフとアンニカ）": {
     "imageUrl": null,
     "genres": null
   },
   "glass masquerade 2": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2m83.jpg",
+    "genres": "Puzzle, Indie"
   },
   "gleamlight": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co1xml.jpg",
+    "genres": "Platform, Adventure, Indie"
   },
   "glitchangels": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co41bb.jpg",
+    "genres": "Shooter, Indie, Arcade"
   },
   "gloom and doom": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2of4.jpg",
+    "genres": "Adventure, Indie, Visual Novel"
   },
   "glorious savior": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co8xwu.jpg",
+    "genres": "Role-playing (RPG), Simulator, Strategy, Adventure"
   },
   "gnosia": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co9458.jpg",
+    "genres": "Role-playing (RPG), Adventure, Indie, Visual Novel"
   },
   "goat simulator 3": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co5sf0.jpg",
+    "genres": "Simulator, Adventure"
   },
   "goat simulator 3 - multiversal traveler's edition": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co5sf0.jpg",
+    "genres": "Simulator, Adventure"
   },
   "goat simulator: the goaty": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co30zm.jpg",
+    "genres": "Simulator, Adventure, Indie"
   },
   "goat simulator: waste of space bundle": {
-    "imageUrl": null,
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co6aju.jpg",
     "genres": null
   },
   "god of rock": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co54f2.jpg",
+    "genres": "Fighting, Music, Strategy, Indie, Arcade"
   },
   "god's trigger": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co8rfi.jpg",
+    "genres": "Shooter, Puzzle, Hack and slash/Beat 'em up, Indie"
   },
   "godfall: edición ultimate": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2cri.jpg",
+    "genres": "Role-playing (RPG), Adventure"
   },
   "godlike burger": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co4ohz.jpg",
+    "genres": "Role-playing (RPG), Simulator, Strategy, Hack and slash/Beat 'em up, Indie"
   },
   "going under": {
     "imageUrl": null,
     "genres": null
   },
   "golazo! 2": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co5rkj.jpg",
+    "genres": "Sport, Indie, Arcade"
   },
   "golden force": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2ozm.jpg",
+    "genres": "Platform, Role-playing (RPG), Adventure, Indie, Arcade"
   },
   "golem gates": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co24a2.jpg",
+    "genres": "Real Time Strategy (RTS), Role-playing (RPG), Strategy"
   },
   "gonner2": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co29ra.jpg",
+    "genres": "Platform, Adventure, Indie, Arcade"
   },
   "goons: legends & mayhem": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co6b4r.jpg",
+    "genres": "Sport"
   },
   "gord": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2ygw.jpg",
+    "genres": "Role-playing (RPG), Simulator, Strategy, Adventure, Indie"
   },
   "gori: cuddly carnage": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co79i9.jpg",
+    "genres": "Platform, Hack and slash/Beat 'em up, Adventure, Indie"
   },
   "gotham knights ": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co3s9z.jpg",
+    "genres": "Role-playing (RPG), Hack and slash/Beat 'em up, Adventure"
   },
   "grace of letoile": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co7hc9.jpg",
+    "genres": "Role-playing (RPG)"
   },
   "grand theft auto v (xbox one y xbox series x|s)": {
     "imageUrl": null,
     "genres": null
   },
-  "grand theft auto v xbox one": {
-    "imageUrl": "https://i5.walmartimages.com/seo/Grand-Theft-Auto-V-Xbox-One_3072f375-71a7-4fb4-9b43-d793920a51d3.52693e7f877646daf0654a1f268a9844.jpeg",
-    "genres": "Action"
-  },
   "grand theft auto: the trilogy – the definitive edition": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co9751.jpg",
+    "genres": "Shooter, Arcade"
   },
   "grandia hd collection": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2w84.jpg",
+    "genres": "Role-playing (RPG), Adventure"
   },
   "grapple dog": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co6eh2.jpg",
+    "genres": "Platform, Adventure, Indie, Arcade"
   },
   "graven": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2h3c.jpg",
+    "genres": "Shooter, Role-playing (RPG), Adventure"
   },
   "graveyard keeper: last journey edition": {
-    "imageUrl": null,
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co6r59.jpg",
     "genres": null
   },
   "gravity oddity": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co4wxo.jpg",
+    "genres": "Shooter, Platform, Adventure, Indie"
   },
   "gray dawn": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co27pi.jpg",
+    "genres": "Puzzle, Simulator, Adventure, Indie"
   },
   "graze counter gm": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co5dud.jpg",
+    "genres": "Shooter, Indie, Arcade"
   },
   "greak: memories of azur": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co4c2y.jpg",
+    "genres": "Platform, Puzzle, Role-playing (RPG), Adventure, Indie"
   },
   "greed 2: forbidden experiments": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co8sm3.jpg",
+    "genres": "Puzzle, Adventure, Indie"
   },
   "greed 3: old enemies returning": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co8sm4.jpg",
+    "genres": "Puzzle, Adventure, Indie"
   },
   "greed: the mad scientist": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co8sm7.jpg",
+    "genres": "Puzzle, Adventure, Indie"
   },
   "greedfall - gold edition": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co1ppo.jpg",
+    "genres": "Role-playing (RPG), Strategy, Adventure"
   },
   "grey skies: a war of the worlds story": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2jr9.jpg",
+    "genres": "Fighting, Platform, Puzzle, Strategy, Adventure, Indie"
   },
   "greyhill incident": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co5dux.jpg",
+    "genres": "Shooter, Adventure, Indie"
   },
   "greyhill incident - abducted edition": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co5dux.jpg",
+    "genres": "Shooter, Adventure, Indie"
   },
   "grid legends ": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co3gvq.jpg",
+    "genres": "Racing, Simulator, Sport"
   },
   "grid legends: deluxe edition ": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co4c87.jpg",
+    "genres": "Racing, Sport"
   },
   "grim dawn: definitive edition": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co7m9u.jpg",
+    "genres": "Role-playing (RPG)"
   },
   "grim fandango remastered": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co27pj.jpg",
+    "genres": "Point-and-click, Puzzle, Adventure"
   },
   "grime": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co9vde.jpg",
+    "genres": "Simulator, Strategy, Indie, Card & Board Game"
   },
   "grindstone": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2f2q.jpg",
+    "genres": "Puzzle, Strategy, Indie"
   },
   "gris": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co1qv5.jpg",
+    "genres": "Platform, Puzzle, Adventure, Indie"
   },
   "grounded": {
     "imageUrl": null,
     "genres": null
   },
   "grow: song of the evertree": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co38u1.jpg",
+    "genres": "Puzzle, Role-playing (RPG), Simulator, Adventure, Indie"
   },
   "gryphon knight epic: edición definitiva": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co20l6.jpg",
+    "genres": "Shooter, Indie"
   },
   "guacamelee! 2 al completo": {
     "imageUrl": null,
     "genres": null
   },
   "guilty gear -strive-": {
-    "imageUrl": null,
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co713c.jpg",
     "genres": null
   },
   "guilty gear -strive- edición blazing": {
-    "imageUrl": null,
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co713c.jpg",
     "genres": null
   },
   "gunborg: dark matters": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co4ghj.jpg",
+    "genres": "Shooter, Platform, Indie, Arcade"
   },
   "gunfire reborn": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2c0p.jpg",
+    "genres": "Shooter, Role-playing (RPG), Adventure, Indie"
   },
   "gungrave g.o.r.e": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co6vn2.jpg",
+    "genres": "Fighting, Shooter, Simulator, Strategy, Adventure"
   },
   "guns, gore and cannoli": {
     "imageUrl": null,
     "genres": null
   },
   "guntech 2": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co7hcr.jpg",
+    "genres": "Shooter, Arcade"
   },
   "gunvolt chronicles: luminous avenger ix": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co24dq.jpg",
+    "genres": "Shooter, Platform, Indie"
   },
   "gunvolt chronicles: luminous avenger ix 2": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co3wwv.jpg",
+    "genres": "Platform, Adventure"
   },
   "gunvolt records: cychronicle": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co72xt.jpg",
+    "genres": "Music"
   },
   "gylt": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2qad.jpg",
+    "genres": "Puzzle, Role-playing (RPG), Adventure"
   },
   "hades": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co39vc.jpg",
+    "genres": "Role-playing (RPG), Hack and slash/Beat 'em up, Adventure, Indie"
   },
   "halo infinite (campaña)": {
     "imageUrl": null,
     "genres": null
   },
   "hammerwatch ii: the chronicles edition": {
-    "imageUrl": null,
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co7i4t.jpg",
     "genres": null
   },
   "hammerwatch: heroic bundle": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co3k96.jpg",
+    "genres": "Hack and slash/Beat 'em up, Adventure"
   },
   "hamster on rails": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co4urd.jpg",
+    "genres": "Puzzle, Racing, Strategy, Adventure, Indie"
   },
   "hand in hand": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2tpz.jpg",
+    "genres": "Shooter, Platform, Puzzle, Strategy, Adventure, Indie, Arcade"
   },
   "happy's humble burger farm": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co398u.jpg",
+    "genres": "Simulator, Adventure, Indie, Arcade"
   },
   "hardspace: shipbreaker": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2m8b.jpg",
+    "genres": "Simulator, Strategy"
   },
   "harmony: the fall of reverie": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co64rk.jpg",
+    "genres": "Strategy, Adventure, Indie, Visual Novel"
   },
   "harmony's odyssey": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co395h.jpg",
+    "genres": "Puzzle, Adventure, Indie, Arcade"
   },
   "harvest life": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co24xc.jpg",
+    "genres": "Simulator, Strategy, Adventure, Indie, Arcade"
   },
   "harvest moon: light of hope se complete": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2xl3.jpg",
+    "genres": "Role-playing (RPG), Simulator, Adventure"
   },
   "harvest moon: one world bundle": {
-    "imageUrl": null,
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co3xfw.jpg",
     "genres": null
   },
   "harvest moon: the winds of anthos": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co6vi3.jpg",
+    "genres": "Role-playing (RPG), Simulator, Adventure"
   },
   "harvest moon: the winds of anthos bundle": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co787h.jpg",
+    "genres": "Role-playing (RPG), Simulator, Adventure"
   },
   "haunted house": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co7cy8.jpg",
+    "genres": "Adventure, Indie"
   },
   "haven": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co542m.jpg",
+    "genres": "Role-playing (RPG), Adventure"
   },
   "hazel sky": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co6sa4.jpg",
+    "genres": "Puzzle, Role-playing (RPG), Adventure, Indie"
   },
   "headliner: novinews": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co1h5r.jpg",
+    "genres": "Role-playing (RPG), Simulator, Adventure, Indie, Visual Novel"
   },
   "heads up! phones down edition": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co7dfl.jpg",
+    "genres": "Puzzle, Card & Board Game"
   },
   "heaven dust": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co8u5j.jpg",
+    "genres": "Role-playing (RPG), Adventure, Indie"
   },
   "heavenly bodies": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co1px6.jpg",
+    "genres": "Simulator, Strategy, Adventure, Indie"
   },
   "heidelberg 1693": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2dd6.jpg",
+    "genres": "Platform, Adventure, Indie, Arcade"
   },
   "helheim hassle": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2c1b.jpg",
+    "genres": "Platform, Puzzle, Adventure, Indie"
   },
   "heliborne": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co24x4.jpg",
+    "genres": "Simulator, Indie"
   },
   "hell pie": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2m8d.jpg",
+    "genres": "Platform, Adventure"
   },
   "hellblade: senua's sacrifice": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2l7l.jpg",
+    "genres": "Simulator, Hack and slash/Beat 'em up, Adventure, Indie"
   },
   "hellboy web of wyrd": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co5va2.jpg",
+    "genres": "Fighting, Adventure, Indie"
   },
   "hellmut: the badass from hell": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co1l1u.jpg",
+    "genres": "Fighting, Shooter, Indie, Arcade"
   },
   "hello engineer": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co5uty.jpg",
+    "genres": "Puzzle, Racing, Simulator, Adventure, Indie"
   },
   "hello neighbor 2": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co81i8.jpg",
+    "genres": "Puzzle, Strategy, Adventure, Indie"
   },
   "hello neighbor 2 deluxe edition": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co4n7d.jpg",
+    "genres": "Puzzle, Strategy, Adventure, Indie"
   },
   "hello neighbor: hide and seek": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co62em.jpg",
+    "genres": "Puzzle, Role-playing (RPG), Adventure"
   },
   "hello neighbor: home invader bundle": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co7evh.jpg",
+    "genres": "Puzzle"
   },
   "hellpoint": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2bwn.jpg",
+    "genres": "Role-playing (RPG), Adventure, Indie"
   },
   "hellpoint ultimate edition": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co4zg8.jpg",
+    "genres": "Role-playing (RPG)"
   },
   "hermano de jorel y el juego más importante de la galaxia edición completa": {
     "imageUrl": null,
     "genres": null
   },
   "hi-fi rush": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co6219.jpg",
+    "genres": "Music, Platform, Hack and slash/Beat 'em up, Adventure"
   },
   "hi-fi rush deluxe edition": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co62uz.jpg",
+    "genres": "Platform, Adventure"
   },
   "high on life + dlc bundle": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co97p0.jpg",
+    "genres": "Shooter, Adventure"
   },
   "highwater": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co4umz.jpg",
+    "genres": "Puzzle, Strategy, Tactical, Adventure"
   },
   "historias de un jardín": {
     "imageUrl": null,
     "genres": null
   },
   "historical trilogy": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co62h5.jpg",
+    "genres": "Point-and-click, Role-playing (RPG), Strategy, Adventure, Indie, Card & Board Game"
   },
   "hitchhiker - a mystery game": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co9ie8.jpg",
+    "genres": "Simulator, Strategy, Indie"
   },
   "hitman hd colección mejorada": {
     "imageUrl": null,
     "genres": null
   },
   "hitman world of assassination": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co620f.jpg",
+    "genres": "Shooter, Tactical, Adventure"
   },
   "hitman world of assassination deluxe edition": {
-    "imageUrl": null,
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co8im9.jpg",
     "genres": null
   },
   "hitman world of assassination part one": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co7pc0.jpg",
+    "genres": "Shooter"
   },
   "hitman™ 2": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2qcq.jpg",
+    "genres": "Shooter, Tactical, Adventure"
   },
   "hobby simulator bundle": {
-    "imageUrl": null,
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co5fbg.jpg",
     "genres": null
   },
   "hobo: tough life": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co24ww.jpg",
+    "genres": "Role-playing (RPG), Simulator, Adventure, Indie"
   },
   "hogwarts legacy: digital deluxe edition ": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co54qe.jpg",
+    "genres": "Role-playing (RPG), Adventure"
   },
   "hollow": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co4bg3.jpg",
+    "genres": "Platform, Indie"
   },
   "hollow knight: edición corazón vacío": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co93cr.jpg",
+    "genres": "Platform, Adventure, Indie"
   },
   "homebody": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co4sco.jpg",
+    "genres": "Puzzle, Adventure, Indie"
   },
   "homefront®: the revolution": {
     "imageUrl": null,
     "genres": null
   },
   "homestead arcana": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co59ym.jpg",
+    "genres": "Role-playing (RPG), Simulator"
   },
   "hookbots": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co1q3r.jpg",
+    "genres": "Fighting, Adventure, Indie"
   },
   "horace": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2hr0.jpg",
+    "genres": "Platform, Adventure, Indie, Arcade"
   },
   "horror tale 1: kidnapper": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co6e3f.jpg",
+    "genres": "Simulator, Adventure, Indie"
   },
   "horror tales: the beggar": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co84rq.jpg",
+    "genres": "Shooter, Platform, Adventure, Indie"
   },
   "horror tales: the wine": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2i9m.jpg",
+    "genres": "Shooter, Adventure, Indie"
   },
   "horse club adventure: lakeside collection": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co7hen.jpg",
+    "genres": "Racing, Adventure"
   },
   "horse club adventures 2: hazelwood stories": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co536z.jpg",
+    "genres": "Simulator, Adventure"
   },
   "hot wheels unleashed™ 2 - turbocharged": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co7ek2.jpg",
+    "genres": "Racing"
   },
   "hot wheels unleashed™ 2 - turbocharged - deluxe edition": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co7ek2.jpg",
+    "genres": "Racing"
   },
   "hot wheels unleashed™ 2 - turbocharged - legendary edition": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co7ek2.jpg",
+    "genres": "Racing"
   },
   "hotel renovator": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co68kd.jpg",
+    "genres": "Simulator, Adventure, Indie"
   },
   "hotel transilvania: aventuras e historias de terror": {
     "imageUrl": null,
     "genres": null
   },
   "hotline miami 2: wrong number": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co3wf6.jpg",
+    "genres": "Shooter, Indie, Arcade"
   },
   "hotline miami collection": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co1p88.jpg",
+    "genres": "Shooter, Adventure, Indie, Arcade"
   },
   "hotshot racing": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2150.jpg",
+    "genres": "Racing, Indie, Arcade"
   },
   "hourglass": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co3199.jpg",
+    "genres": "Platform, Puzzle, Role-playing (RPG), Adventure, Indie"
   },
   "house": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co8084.jpg",
+    "genres": "Puzzle, Adventure, Indie"
   },
   "house builder": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co9e3q.jpg",
+    "genres": "Simulator"
   },
   "house builder & tank mechanic simulator": {
-    "imageUrl": null,
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co5saf.jpg",
     "genres": null
   },
   "house builder & thief simulator": {
-    "imageUrl": null,
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co5vki.jpg",
     "genres": null
   },
   "house builder & ultimate fishing simulator": {
-    "imageUrl": null,
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co5w4j.jpg",
     "genres": null
   },
   "house flipper": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co4xdy.jpg",
+    "genres": "Simulator, Indie"
   },
   "house flipper 2": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co633o.jpg",
+    "genres": "Simulator, Indie"
   },
   "how 2 escape": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co6a5z.jpg",
+    "genres": "Puzzle, Simulator, Adventure, Indie, Card & Board Game"
   },
   "how to fool a liar king remastered": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co4top.jpg",
+    "genres": "Adventure, Indie, Visual Novel"
   },
   "how to survive 2": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co1j62.jpg",
+    "genres": "Role-playing (RPG), Adventure"
   },
   "humanity": {
     "imageUrl": null,
     "genres": null
   },
   "humankind™ - heritage edition ": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co1xs1.jpg",
+    "genres": "Simulator, Strategy, Turn-based strategy (TBS)"
   },
   "hundred days - winemaking simulator": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co5yvh.jpg",
+    "genres": "Simulator, Strategy, Indie"
   },
   "huntdown": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co26jr.jpg",
+    "genres": "Shooter, Platform, Indie, Arcade"
   },
   "hyper gunsport": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co5wz7.jpg",
+    "genres": "Sport, Indie, Arcade"
   },
   "hypercharge complete edition ": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co5tcn.jpg",
+    "genres": "Shooter"
   },
   "hypercharge unboxed": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co5c1l.jpg",
+    "genres": "Shooter, Platform, Strategy, Adventure, Indie"
   },
   "i am dead": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co3uyg.jpg",
+    "genres": "Puzzle, Adventure, Indie"
   },
   "i am fish": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co50gd.jpg",
+    "genres": "Role-playing (RPG), Adventure, Indie"
   },
   "i am your president": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2juo.jpg",
+    "genres": "Role-playing (RPG), Simulator, Strategy, Indie"
   },
   "i saw black clouds": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2w8n.jpg",
+    "genres": "Adventure, Indie"
   },
   "ice age una aventura de bellotas": {
     "imageUrl": null,
     "genres": null
   },
   "iconoclasts": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2ug9.jpg",
+    "genres": "Platform, Puzzle, Adventure, Indie"
   },
   "ikai": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co46ew.jpg",
+    "genres": "Puzzle, Indie"
   },
   "imaginary realms bundle": {
-    "imageUrl": null,
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co3rw5.jpg",
     "genres": null
   },
   "immortal planet": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2jiy.jpg",
+    "genres": "Fighting, Role-playing (RPG), Adventure, Indie"
   },
   "immortal realms: vampire wars": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co1xm0.jpg",
+    "genres": "Role-playing (RPG), Strategy, Turn-based strategy (TBS), Tactical"
   },
   "immortals fenyx rising™ gold edition": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2kx7.jpg",
+    "genres": "Adventure"
   },
   "imp of the sun": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2ucn.jpg",
+    "genres": "Fighting, Platform, Adventure, Indie"
   },
   "in celebration of violence": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2qee.jpg",
+    "genres": "Role-playing (RPG), Hack and slash/Beat 'em up, Adventure, Indie"
   },
   "in sound mind": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co3p6y.jpg",
+    "genres": "Shooter, Platform, Puzzle, Adventure, Indie"
   },
   "indie gems bundle - explosions edition": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co4do2.jpg",
+    "genres": "Shooter, Puzzle, Indie, Arcade"
   },
   "indigo 7 quest of love": {
     "imageUrl": null,
     "genres": null
   },
   "indika": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co85mc.jpg",
+    "genres": "Puzzle, Adventure"
   },
   "industria": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co7xz0.jpg",
+    "genres": "Adventure, Indie"
   },
   "inertial drift - twilight rivals edition": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co6gtf.jpg",
+    "genres": "Racing, Indie, Arcade"
   },
   "inescapable: no rules, no rescue": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co6m49.jpg",
+    "genres": "Adventure, Visual Novel"
   },
   "infernax": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co46fb.jpg",
+    "genres": "Platform, Role-playing (RPG), Adventure, Indie, Arcade"
   },
   "infinite guitars": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co6bfb.jpg",
+    "genres": "Music, Role-playing (RPG), Adventure, Indie"
   },
   "infinite links": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co4pgo.jpg",
+    "genres": "Role-playing (RPG), Simulator, Strategy, Adventure"
   },
   "infinity strash: dragon quest the adventure of dai": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co6m7z.jpg",
+    "genres": "Role-playing (RPG), Adventure"
   },
   "infinity strash: dragon quest the adventure of dai - digital deluxe edition ": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co6m7z.jpg",
+    "genres": "Role-playing (RPG), Adventure"
   },
   "infliction: extended cut": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2467.jpg",
+    "genres": "Puzzle, Simulator, Adventure"
   },
   "injection π23 'ars regia'": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co7gdf.jpg",
+    "genres": "Shooter, Puzzle, Strategy, Adventure, Indie"
   },
   "injustice™ 2 - legendary edition": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co1xym.jpg",
+    "genres": "Fighting"
   },
   "inkulinati": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co62ke.jpg",
+    "genres": "Strategy, Turn-based strategy (TBS), Adventure, Indie"
   },
   "inscryption": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co401c.jpg",
+    "genres": "Puzzle, Strategy, Adventure, Indie, Card & Board Game"
   },
   "inside & limbo bundle": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co821u.jpg",
+    "genres": "Platform, Puzzle, Adventure, Indie"
   },
   "insomnis": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co4ejs.jpg",
+    "genres": "Puzzle, Adventure, Indie"
   },
   "inspector gadget - mad time party": {
-    "imageUrl": null,
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co4t8b.jpg",
     "genres": null
   },
   "inspector waffles": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2urr.jpg",
+    "genres": "Point-and-click, Puzzle, Adventure, Indie"
   },
   "insurgency: sandstorm": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co9m28.jpg",
+    "genres": "Shooter, Simulator, Strategy"
   },
   "insurgency: sandstorm - ultimate edition": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co8gja.jpg",
+    "genres": "Shooter"
   },
   "insurmountable": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co2fhl.jpg",
+    "genres": "Simulator, Strategy, Adventure, Indie"
   },
   "interior designer (diseñador de interiores)": {
     "imageUrl": null,
     "genres": null
   },
   "into the pit": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co3nrv.jpg",
+    "genres": "Shooter, Indie"
   },
   "intruders: hide and seek": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co1iyi.jpg",
+    "genres": "Adventure, Indie"
   },
   "ion fury": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co9iq1.jpg",
+    "genres": "Shooter, Indie"
   },
   "iris and the giant deluxe soundtrack edition": {
-    "imageUrl": null,
+    "imageUrl": "//images.igdb.com/igdb/image/upload/t_cover_big/co68xc.jpg",
     "genres": null
   },
   "iron danger": {
@@ -4594,10 +4478,6 @@
   "lies of p ": {
     "imageUrl": null,
     "genres": null
-  },
-  "lies of p: overture bundle": {
-    "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202505/2608/ebb28e14f8f0278f4237c7296eb8d80753fa110f7a65e47b.png",
-    "genres": "Acción y Aventura"
   },
   "life is strange complete season (episodes 1-5)": {
     "imageUrl": null,
@@ -5082,10 +4962,6 @@
   "metro simulator 2": {
     "imageUrl": null,
     "genres": null
-  },
-  "mindseye - deluxe edition": {
-    "imageUrl": "https://d17umfmk0e27oh.cloudfront.net/articulos/articulos-1460328.jpg",
-    "genres": "Acción y Aventura"
   },
   "mia and the dragon princess": {
     "imageUrl": null,
@@ -6211,10 +6087,6 @@
     "imageUrl": null,
     "genres": null
   },
-  "poppy playtime: chapter 4": {
-    "imageUrl": "https://gamegator.net/_next/image?url=https%3A%2F%2Fimages.gamegator.net%2Fco9byv&w=640&q=75",
-    "genres": "Acción y Aventura"
-  },
   "port royale 4 - extended edition": {
     "imageUrl": null,
     "genres": null
@@ -6474,10 +6346,6 @@
   "re:call": {
     "imageUrl": null,
     "genres": null
-  },
-  "ready or not: digital deluxe edition": {
-    "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202504/1414/365a5bd02a8c6875febb9de26057b53e3618baa547ff048b.jpg",
-    "genres": "Shooter"
   },
   "ready, steady, ship!": {
     "imageUrl": null,
@@ -6823,10 +6691,6 @@
     "imageUrl": null,
     "genres": null
   },
-  "star trucker - deluxe bundle": {
-    "imageUrl": "https://store-images.s-microsoft.com/image/apps.9370.14233531336726724.dffd5a23-a924-4ff9-b953-526f2f0dab0f.5240e569-ae41-414f-abf2-6ece5c59b869?mode=scale&q=90&h=300&w=200&background=%23FFFFFF",
-    "genres": "Simulación"
-  },
   "s.t.a.l.k.e.r.: legends of the zone trilogy": {
     "imageUrl": null,
     "genres": null
@@ -7106,10 +6970,6 @@
   "signs of the sojourner": {
     "imageUrl": null,
     "genres": null
-  },
-  "silent hill f - deluxe edition": {
-    "imageUrl": "https://cdn-ext.fanatical.com/production/product/1280x720/44acca9f-1ba3-47c7-aedd-436bb45d984e.jpeg",
-    "genres": "Terror"
   },
   "silver chains": {
     "imageUrl": null,
@@ -7722,10 +7582,6 @@
   "sunrise gp": {
     "imageUrl": null,
     "genres": null
-  },
-  "supermarket owner simulator: business": {
-    "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202406/0319/b62505b3f3dbfc20c31f15a54d8d87643c47ba7cd17b804d.png",
-    "genres": "Simulación"
   },
   "super arcade football": {
     "imageUrl": null,
@@ -8778,10 +8634,6 @@
   "toejam and earl: back in the groove!": {
     "imageUrl": null,
     "genres": null
-  },
-  "to a t": {
-    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1875320/a9676044c8b8ccfc9b46f107996ce6e85e21c70b/header.jpg?t=1749748161",
-    "genres": "Acción y Aventura"
   },
   "toem": {
     "imageUrl": null,
