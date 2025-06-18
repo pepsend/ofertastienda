@@ -1,142 +1,74 @@
-// build.js - v38 (El Último Baile)
-import fs from 'fs';
-import Papa from 'papaparse';
-import fetch from 'node-fetch';
+// script.js - v39 (El Script Tonto y Rápido)
 
-console.log("Iniciando proceso de construcción (v38)...");
+document.addEventListener('DOMContentLoaded', function() {
+    console.log("PÁGINA CARGADA. Iniciando script v39...");
 
-// --- CONFIGURACIÓN ---
-const CSV_FILE_PATH = './OFERTAS_FINAL.csv';
-const OUTPUT_JSON_PATH = './juegos.json';
-const CACHE_FILE_PATH = './build_cache.json';
-
-const RAWG_API_KEY = '694d2b80f36148b0a8c04bd0a6f28c33'; 
-const IGDB_CLIENT_ID = '5m5y7vod3ilgxjb5xnsgug8pdps3m9';
-const IGDB_ACCESS_TOKEN = 'yij22l487u2wsx0em66xjdfa89r1fu';
-
-// ============================================================================
-//  FUNCIÓN PRINCIPAL
-// ============================================================================
-async function build() {
-    let dataCache = {};
-    if (fs.existsSync(CACHE_FILE_PATH)) {
-        dataCache = JSON.parse(fs.readFileSync(CACHE_FILE_PATH, 'utf8'));
-    }
+    const gameGrid = document.getElementById('game-grid');
+    const searchInput = document.getElementById('searchInput');
+    const loadingMessage = document.getElementById('loadingMessage');
+    const noResultsMessage = document.getElementById('noResultsMessage');
     
-    const fileContent = fs.readFileSync(CSV_FILE_PATH, 'utf8');
-    const csvData = Papa.parse(fileContent, { header: true, skipEmptyLines: true }).data;
+    let allGames = []; // Aquí guardaremos todos los juegos una vez cargados
 
-    const finalGameData = [];
-    for (let i = 0; i < csvData.length; i++) {
-        const game = csvData[i];
-        if (!game.Nombre) continue;
+    // La única tarea de este script: cargar el archivo JSON pre-procesado
+    fetch('juegos.json')
+        .then(response => {
+            if (!response.ok) {
+                throw new Error(`Error de red: ${response.statusText}`);
+            }
+            return response.json();
+        })
+        .then(data => {
+            console.log(`-> JSON cargado con ${data.length} juegos.`);
+            allGames = data;
+            renderAllGames(allGames);
+            loadingMessage.style.display = 'none';
+        })
+        .catch(error => {
+            console.error("Error fatal al cargar juegos.json:", error);
+            loadingMessage.innerHTML = `<p style="color:red;">No se pudieron cargar las ofertas. Asegúrate de haber ejecutado el build script.</p>`;
+        });
 
-        console.log(`Procesando ${i + 1}/${csvData.length}: ${game.Nombre}`);
-        const details = await getGameDetails(game, dataCache);
+    // Función para renderizar los juegos en la pantalla
+    function renderAllGames(games) {
+        gameGrid.innerHTML = '';
+        noResultsMessage.style.display = (games.length === 0 && searchInput.value) ? 'block' : 'none';
         
-        finalGameData.push({
-            nombre: game.Nombre,
-            precio: game.Precio,
-            edicion: game.Edición,
-            plataforma: game.Plataforma,
-            oferta: game.Oferta,
-            imageUrl: details.imageUrl,
-            genres: details.genres
-        });
-    }
-
-    fs.writeFileSync(OUTPUT_JSON_PATH, JSON.stringify(finalGameData, null, 2));
-    fs.writeFileSync(CACHE_FILE_PATH, JSON.stringify(dataCache, null, 2));
-    console.log(`\n¡Éxito! Proceso completado.`);
-}
-
-// ============================================================================
-//  LÓGICA DE BÚSQUEDA Y VERIFICACIÓN
-// ============================================================================
-
-async function getGameDetails(game, dataCache) {
-    const originalName = game.Nombre;
-    if (!originalName) return { imageUrl: null, genres: null };
-    if (game.PortadaURL && game.PortadaURL.trim().startsWith('http')) return { imageUrl: game.PortadaURL, genres: game.Género };
-    
-    const cacheKey = originalName.toLowerCase();
-    if (dataCache[cacheKey]) return dataCache[cacheKey];
-
-    let apiData = await searchApi('igdb', originalName);
-    if (!apiData) {
-        apiData = await searchApi('rawg', originalName);
-    }
-    
-    const finalData = apiData || { imageUrl: null, genres: null };
-    dataCache[cacheKey] = finalData;
-    return finalData;
-}
-
-async function searchApi(api, originalName) {
-    const searchTerms = [
-        originalName,
-        originalName.split(/ \+| -|:| – /)[0].trim(),
-    ].filter((v, i, a) => v && a.indexOf(v) === i && v.length > 2);
-
-    for (const term of searchTerms) {
-        const result = api === 'igdb' ? await fetchFromIgdbApi(term) : await fetchFromRawgApi(term);
-        if (result) {
-            // --- VERIFICACIÓN INTELIGENTE PERO SIMPLE ---
-            const apiNameLower = result.name.toLowerCase();
-            const searchTermWords = term.toLowerCase().split(' ').slice(0, 2); // Tomamos las primeras dos palabras
+        const cardsHTML = games.map(game => {
+            if (!game || !game.nombre) return '';
             
-            // Si el nombre de la API contiene las dos primeras palabras de nuestra búsqueda, es válido.
-            const isValid = searchTermWords.every(word => apiNameLower.includes(word));
-
-            if (isValid) {
-                console.log(`[${api.toUpperCase()}] ✅ ACEPTADO para "${term}": "${result.name}"`);
-                return result.data;
-            } else {
-                console.log(`[${api.toUpperCase()}] ❌ RECHAZADO para "${term}": "${result.name}"`);
+            const cardClasses = ['game-card'];
+            if (game.oferta && game.oferta.includes('🔥')) {
+                cardClasses.push('oferta-destacada');
             }
-        }
+            
+            const imagenHTML = game.imageUrl 
+                ? `<img src="${game.imageUrl}" alt="Portada de ${game.nombre}" class="game-cover" loading="lazy">` 
+                : '<div class="game-cover-placeholder"><span class="placeholder-text">Portada no disponible</span></div>';
+            
+            return `
+                <div class="${cardClasses.join(' ')}">
+                    ${imagenHTML}
+                    <div class="card-content">
+                        <h3>${game.nombre}</h3>
+                        <p class="game-price">${game.precio || 'N/D'}</p>
+                        <div class="game-details">
+                            <p><span class="label">Edición:</span> <span>${game.edicion || 'Standard'}</span></p>
+                            <p><span class="label">Plataforma:</span> <span>${game.plataforma || 'No especificada'}</span></p>
+                            <p><span class="label">Género:</span> <span>${game.genres || 'No especificado'}</span></p>
+                        </div>
+                    </div>
+                </div>
+            `;
+        }).join('');
+
+        gameGrid.innerHTML = cardsHTML;
     }
-    return null;
-}
 
-async function fetchFromRawgApi(searchTerm) {
-    if (!RAWG_API_KEY || RAWG_API_KEY.includes('AQUÍ_VA')) return null;
-    try {
-        const response = await fetch(`https://api.rawg.io/api/games?key=${RAWG_API_KEY}&search=${encodeURIComponent(searchTerm)}&page_size=1`);
-        if (response.ok) {
-            const data = await response.json();
-            if (data.results && data.results.length > 0) {
-                const game = data.results[0];
-                return { name: game.name, data: { imageUrl: game.background_image, genres: game.genres ? game.genres.map(g => g.name).join(', ') : '' } };
-            }
-        }
-    } catch (error) {}
-    return null;
-}
-
-async function fetchFromIgdbApi(searchTerm) {
-    if (!IGDB_CLIENT_ID || IGDB_CLIENT_ID.includes('AQUÍ_VA')) return null;
-    try {
-        const response = await fetch(`https://api.igdb.com/v4/games`, {
-            method: 'POST',
-            headers: {
-                'Accept': 'application/json',
-                'Client-ID': IGDB_CLIENT_ID,
-                'Authorization': `Bearer ${IGDB_ACCESS_TOKEN}`
-            },
-            body: `fields name, cover.url, genres.name; search "${searchTerm.replace(/"/g, '\\"')}"; limit 1;`
-        });
-        if (response.ok) {
-            const data = await response.json();
-            if (data && data.length > 0) {
-                const game = data[0];
-                const imageUrl = game.cover ? game.cover.url.replace('t_thumb', 't_cover_big') : null;
-                const genres = game.genres ? game.genres.map(g => g.name).join(', ') : null;
-                return { name: game.name, data: { imageUrl, genres } };
-            }
-        }
-    } catch (error) {}
-    return null;
-}
-
-build();
+    // Función de búsqueda simple
+    searchInput.addEventListener('input', () => {
+        const searchTerm = searchInput.value.toLowerCase().trim();
+        const filteredGames = allGames.filter(g => g.nombre.toLowerCase().includes(searchTerm));
+        renderAllGames(filteredGames);
+    });
+});
