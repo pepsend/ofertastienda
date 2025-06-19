@@ -1,16 +1,15 @@
-// script.js - v39 (El Script Tonto y Rápido)
+// script.js - v40 (La Corrección Final)
 
 document.addEventListener('DOMContentLoaded', function() {
-    console.log("PÁGINA CARGADA. Iniciando script v39...");
+    console.log("PÁGINA CARGADA. Iniciando script v40...");
 
     const gameGrid = document.getElementById('game-grid');
     const searchInput = document.getElementById('searchInput');
     const loadingMessage = document.getElementById('loadingMessage');
     const noResultsMessage = document.getElementById('noResultsMessage');
     
-    let allGames = []; // Aquí guardaremos todos los juegos una vez cargados
+    let allGames = [];
 
-    // La única tarea de este script: cargar el archivo JSON pre-procesado
     fetch('juegos.json')
         .then(response => {
             if (!response.ok) {
@@ -26,10 +25,9 @@ document.addEventListener('DOMContentLoaded', function() {
         })
         .catch(error => {
             console.error("Error fatal al cargar juegos.json:", error);
-            loadingMessage.innerHTML = `<p style="color:red;">No se pudieron cargar las ofertas. Asegúrate de haber ejecutado el build script.</p>`;
+            loadingMessage.innerHTML = `<p style="color:red;">No se pudieron cargar las ofertas. Revisa que 'juegos.json' exista y sea válido.</p>`;
         });
 
-    // Función para renderizar los juegos en la pantalla
     function renderAllGames(games) {
         gameGrid.innerHTML = '';
         noResultsMessage.style.display = (games.length === 0 && searchInput.value) ? 'block' : 'none';
@@ -38,6 +36,7 @@ document.addEventListener('DOMContentLoaded', function() {
             if (!game || !game.nombre) return '';
             
             const cardClasses = ['game-card'];
+            // Corregimos para que busque "oferta" en minúsculas
             if (game.oferta && game.oferta.includes('🔥')) {
                 cardClasses.push('oferta-destacada');
             }
@@ -55,7 +54,10 @@ document.addEventListener('DOMContentLoaded', function() {
                         <div class="game-details">
                             <p><span class="label">Edición:</span> <span>${game.edicion || 'Standard'}</span></p>
                             <p><span class="label">Plataforma:</span> <span>${game.plataforma || 'No especificada'}</span></p>
-                            <p><span class="label">Género:</span> <span>${game.genres || 'No especificado'}</span></p>
+                            
+                            <!-- LA LÍNEA CORREGIDA -->
+                            <p><span class="label">Género:</span> <span>${game.genres || game.Género || 'No especificado'}</span></p>
+                        
                         </div>
                     </div>
                 </div>
@@ -65,7 +67,6 @@ document.addEventListener('DOMContentLoaded', function() {
         gameGrid.innerHTML = cardsHTML;
     }
 
-    // Función de búsqueda simple
     searchInput.addEventListener('input', () => {
         const searchTerm = searchInput.value.toLowerCase().trim();
         const filteredGames = allGames.filter(g => g.nombre.toLowerCase().includes(searchTerm));
