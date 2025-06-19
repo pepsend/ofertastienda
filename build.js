@@ -1,93 +1,112 @@
-// build.js - v39 (Concurrencia Controlada con p-limit)
+// build.mjs - v42 (El Triunvirato de APIs)
 import fs from 'fs';
 import Papa from 'papaparse';
 import fetch from 'node-fetch';
-import pLimit from 'p-limit'; // <--- LA HERRAMIENTA CLAVE
 
-console.log("Iniciando proceso de construcción (v39)...");
+console.log("Iniciando proceso de construcción (v42)...");
 
 // --- CONFIGURACIÓN ---
-const CSV_FILE_PATH = './OFERTAS_FINAL.csv';
+const CSV_FILE_PATH = 'OFERTAS_FINAL.csv';
 const OUTPUT_JSON_PATH = './juegos.json';
 const CACHE_FILE_PATH = './build_cache.json';
 
-const RAWG_API_KEY = '694d2b80f36148b0a8c04bd0a6f28c33'; 
+// --- CLAVES DE API (¡Pega las 3 nuevas y correctas aquí!) ---
+const RAWG_API_KEY = '90e986c719e848fe9bb84eb58e2017ab';
 const IGDB_CLIENT_ID = '5m5y7vod3ilgxjb5xnsgug8pdps3m9';
-const IGDB_ACCESS_TOKEN = 'yij22l487u2wsx0em66xjdfa89r1fu';
+const IGDB_ACCESS_TOKEN = 'bpl5dif5pebr1jf4bwc2i2uq5lhssb';
+const STEAMGRIDDB_API_KEY = '39eb6f0b2be1dd211c3aba4be117a814';
 
 const SIMILARITY_THRESHOLD = 0.85;
-const CONCURRENCY_LIMIT = 10; // Haremos 10 peticiones a la vez, un número muy seguro
 
 // ============================================================================
 //  FUNCIÓN PRINCIPAL
 // ============================================================================
 async function build() {
     let dataCache = {};
-    if (fs.existsSync(CACHE_FILE_PATH)) {
-        dataCache = JSON.parse(fs.readFileSync(CACHE_FILE_PATH, 'utf8'));
-    }
+    if (fs.existsSync(CACHE_FILE_PATH)) { dataCache = JSON.parse(fs.readFileSync(CACHE_FILE_PATH, 'utf8')); }
     
     const fileContent = fs.readFileSync(CSV_FILE_PATH, 'utf8');
     const csvData = Papa.parse(fileContent, { header: true, skipEmptyLines: true }).data;
 
-    const limit = pLimit(CONCURRENCY_LIMIT); // Creamos el limitador
-    let processedCount = 0;
+    const finalGameData = [];
+    for (let i = 0; i < csvData.length; i++) {
+        const game = csvData[i];
+        if (!game.Nombre) continue;
 
-    // Mapeamos cada juego a una tarea asíncrona controlada por el limitador
-    const promises = csvData.map(game => {
-        if (!game.Nombre) return null;
-        return limit(async () => {
-            const details = await getGameDetails(game, dataCache);
-            processedCount++;
-            process.stdout.write(`Procesando: ${processedCount}/${csvData.length}\r`); // Contador en tiempo real
-            return { ...game, ...details };
+        console.log(`Procesando ${i + 1}/${csvData.length}: ${game.Nombre}`);
+        const details = await getGameDetails(game, dataCache);
+        
+        finalGameData.push({
+            nombre: game.Nombre,
+            precio: game.Precio,
+            edicion: game.Edición,
+            plataforma: game.Plataforma,
+            oferta: game.Oferta,
+            imageUrl: details.imageUrl,
+            genres: details.genres
         });
-    });
+    }
 
-    // Esperamos a que todas las tareas terminen
-    const finalGameData = (await Promise.all(promises)).filter(Boolean);
-
-    // Guardamos los resultados
     fs.writeFileSync(OUTPUT_JSON_PATH, JSON.stringify(finalGameData, null, 2));
     fs.writeFileSync(CACHE_FILE_PATH, JSON.stringify(dataCache, null, 2));
-    console.log(`\n\n¡Éxito! Proceso completado. Archivos generados.`);
+    console.log(`\n¡Éxito! Proceso completado.`);
 }
 
-// ... (El resto de funciones auxiliares son las mismas que ya teníamos y funcionaban) ...
-// PEGO TODO EL CÓDIGO PARA QUE SEA UNA SOLA COPIA
+// ============================================================================
+//  LÓGICA DE BÚSQUEDA Y VERIFICACIÓN
+// ============================================================================
 
-async function getGameDetails(game, dataCache) { /* ... */
+async function getGameDetails(game, dataCache) {
     const originalName = game.Nombre;
     if (!originalName) return { imageUrl: null, genres: null };
-    if (game.PortadaURL && game.PortadaURL.trim().startsWith('http')) {
-        return { imageUrl: game.PortadaURL, genres: game.Género };
-    }
+    if (game.PortadaURL && game.PortadaURL.trim().startsWith('http')) return { imageUrl: game.PortadaURL, genres: game.Género };
+    
     const cacheKey = originalName.toLowerCase();
-    if (dataCache[cacheKey]) {
-        return dataCache[cacheKey];
-    }
+    if (dataCache[cacheKey]) return dataCache[cacheKey];
+
+    // --- CASCADA DE APIS ---
     let apiData = await searchApi('igdb', originalName);
     if (!apiData) {
+        console.log(`IGDB falló para "${originalName}". Probando con SteamGridDB...`);
+        apiData = await searchApi('steamgriddb', originalName);
+    }
+    if (!apiData) {
+        console.log(`SteamGridDB falló para "${originalName}". Probando con RAWG...`);
         apiData = await searchApi('rawg', originalName);
     }
+    
     const finalData = apiData || { imageUrl: null, genres: null };
     dataCache[cacheKey] = finalData;
     return finalData;
 }
 
-async function searchApi(api, originalName) { /* ... */
-    const searchTerms = [ originalName, originalName.split(/ \+| -|:| – /)[0].trim(), normalizeName(originalName, true) ].filter((v, i, a) => v && a.indexOf(v) === i && v.length > 2);
+async function searchApi(api, originalName) {
+    const searchTerms = [ originalName, originalName.split(/ \+| -|:| – /)[0].trim() ]
+        .filter((v, i, a) => v && a.indexOf(v) === i && v.length > 2);
+
     for (const term of searchTerms) {
-        const result = api === 'igdb' ? await fetchFromIgdbApi(term) : await fetchFromRawgApi(term);
+        let result;
+        switch (api) {
+            case 'igdb': result = await fetchFromIgdbApi(term); break;
+            case 'steamgriddb': result = await fetchFromSteamGridDBApi(term); break;
+            case 'rawg': result = await fetchFromRawgApi(term); break;
+        }
+
         if (result) {
-            const similarity = getSimilarity(normalizeName(originalName, true), normalizeName(result.name, true));
-            if (similarity >= SIMILARITY_THRESHOLD) { return result.data; }
+            const apiNameClean = normalizeName(result.name);
+            const searchTermClean = normalizeName(term);
+            if (apiNameClean.includes(searchTermClean)) {
+                console.log(`[${api.toUpperCase()}] ✅ ACEPTADO para "${term}": "${result.name}"`);
+                return result.data;
+            } else {
+                console.log(`[${api.toUpperCase()}] ❌ RECHAZADO para "${term}": "${result.name}"`);
+            }
         }
     }
     return null;
 }
 
-async function fetchFromRawgApi(searchTerm) { /* ... */
+async function fetchFromRawgApi(searchTerm) { /* ...código sin cambios... */
     if (!RAWG_API_KEY || RAWG_API_KEY.includes('AQUÍ_VA')) return null;
     try {
         const response = await fetch(`https://api.rawg.io/api/games?key=${RAWG_API_KEY}&search=${encodeURIComponent(searchTerm)}&page_size=1`);
@@ -95,15 +114,15 @@ async function fetchFromRawgApi(searchTerm) { /* ... */
             const data = await response.json();
             if (data.results && data.results.length > 0) {
                 const game = data.results[0];
-                return { name: game.name, data: { imageUrl: game.background_image, genres: game.genres.map(g => g.name).join(', ') } };
+                return { name: game.name, data: { imageUrl: game.background_image, genres: game.genres ? game.genres.map(g => g.name).join(', ') : '' } };
             }
         }
     } catch (error) {}
     return null;
 }
 
-async function fetchFromIgdbApi(searchTerm) { /* ... */
-    if (!IGDB_CLIENT_ID.includes('AQUÍ_VA')) return null;
+async function fetchFromIgdbApi(searchTerm) { /* ...código sin cambios... */
+    if (!IGDB_CLIENT_ID || IGDB_CLIENT_ID.includes('AQUÍ_VA')) return null;
     try {
         const response = await fetch(`https://api.igdb.com/v4/games`, {
             method: 'POST',
@@ -123,12 +142,42 @@ async function fetchFromIgdbApi(searchTerm) { /* ... */
     return null;
 }
 
-function getSimilarity(a, b) { /* ... */
-    if (a.length === 0) return b.length === 0 ? 1 : 0; if (b.length === 0) return a.length === 0 ? 1 : 0; const matrix = Array(b.length + 1).fill(null).map(() => Array(a.length + 1).fill(null)); for (let i = 0; i <= a.length; i++) { matrix[0][i] = i; } for (let j = 0; j <= b.length; j++) { matrix[j][0] = j; } for (let j = 1; j <= b.length; j++) { for (let i = 1; i <= a.length; i++) { const cost = a[i - 1] === b[j - 1] ? 0 : 1; matrix[j][i] = Math.min(matrix[j][i - 1] + 1, matrix[j - 1][i] + 1, matrix[j - 1][i - 1] + cost); } } return 1 - (matrix[b.length][a.length] / Math.max(a.length, b.length));
+// --- NUEVA FUNCIÓN PARA STEAMGRIDDB ---
+async function fetchFromSteamGridDBApi(searchTerm) {
+    if (!STEAMGRIDDB_API_KEY || STEAMGRIDDB_API_KEY.includes('AQUÍ_VA')) return null;
+    try {
+        const response = await fetch(`https://www.steamgriddb.com/api/v2/search/autocomplete/${encodeURIComponent(searchTerm)}`, {
+            headers: { 'Authorization': `Bearer ${STEAMGRIDDB_API_KEY}` }
+        });
+        if (response.ok) {
+            const data = await response.json();
+            if (data.success && data.data.length > 0) {
+                const gameId = data.data[0].id; // Tomamos el ID del primer resultado
+                // Ahora pedimos las imágenes para ese ID
+                const gridsResponse = await fetch(`https://www.steamgriddb.com/api/v2/grids/game/${gameId}?styles=official,white_logo&dimensions=600x900`, {
+                     headers: { 'Authorization': `Bearer ${STEAMGRIDDB_API_KEY}` }
+                });
+                if(gridsResponse.ok){
+                    const gridsData = await gridsResponse.json();
+                    if(gridsData.success && gridsData.data.length > 0){
+                        // Devolvemos el nombre del juego original y la URL de la primera imagen encontrada
+                        return { name: data.data[0].name, data: { imageUrl: gridsData.data[0].url, genres: null } };
+                    }
+                }
+            }
+        }
+    } catch (error) {}
+    return null;
 }
 
-function normalizeName(name, aggressive = false) { /* ... */
-    if (!name) return ''; let normalized = name.toLowerCase().replace(/\(.*\)|\[.*\]/g, '').replace(/#|®|™|:|'|"|’/g, ''); if (aggressive) { normalized = normalized.replace(/deluxe edition|gold edition|goty|game of the year|ultimate edition|standard edition|remastered|complete edition|definitive edition|bundle|collection/g, ''); } return normalized.trim().replace(/\s+/g, ' ');
+
+function normalizeName(name) {
+    if (!name) return '';
+    return name.toLowerCase()
+        .replace(/\(.*\)|\[.*\]/g, '')
+        .replace(/#|®|™|:|'|"|’/g, '')
+        .replace(/deluxe edition|gold edition|goty|game of the year|ultimate edition|standard edition|remastered|complete edition|definitive edition|bundle|collection/g, '')
+        .trim().replace(/\s+/g, ' ');
 }
 
 build();
