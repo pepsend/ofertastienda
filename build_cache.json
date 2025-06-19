@@ -1,4 +1,12 @@
 {
+  " nobody saves the world + frozen hearth": {
+    "imageUrl": "https://store-images.s-microsoft.com/image/apps.3003.14622730277557063.15c9d110-e7a6-40d0-8259-f5847a5f0f08.4bf8eec9-7988-46b2-a058-d2d59549da47",
+    "genres": "Indie"
+  },
+  "[prototype®]": {
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7lS6tPKqWZynsjrPE011g6gX4BczqzQjDKA&s",
+    "genres": "Cargando..."
+  },
   "#blud": {
     "imageUrl": null,
     "genres": null
@@ -7,9 +15,29 @@
     "imageUrl": null,
     "genres": null
   },
+  "3 sobre 10: primera temporada": {
+    "imageUrl": "https://store-images.s-microsoft.com/image/apps.29940.13938212935937434.8b07e3da-e941-4ed3-9a3f-c5176e1f9d58.580c19c3-b557-4ec0-90c1-86b965b3df0b?q=90&w=480&h=270",
+    "genres": "Acción y aventura - Puzles y curiosidades"
+  },
+  "7 days to die - 2024": {
+    "imageUrl": "https://blog.shockbyte.com/content/images/2024/12/7-days-to-die-crossplay-cross-platform.jpg",
+    "genres": "Survival"
+  },
   "8-bit rts series - complete collection": {
     "imageUrl": null,
     "genres": null
+  },
+  "9 monkeys of shaolin + ash of gods + redeemer: bundle": {
+    "imageUrl": "https://store-images.s-microsoft.com/image/apps.57232.14574826387273347.a46f73d4-19e5-48a6-a681-3de711fd867f.9f02986e-81d6-4297-a797-872cc88457aa",
+    "genres": "Acción y Aventura"
+  },
+  "avowed standard edition": {
+    "imageUrl": "https://store-images.s-microsoft.com/image/apps.52063.13594600110987132.5376950b-9493-4428-9d55-8d6df3956a11.a24c3052-d7bd-46b0-8216-8f821160c7d6",
+    "genres": "RPG"
+  },
+  "avowed premium edition": {
+    "imageUrl": "https://store-images.s-microsoft.com/image/apps.52063.13594600110987132.5376950b-9493-4428-9d55-8d6df3956a11.a24c3052-d7bd-46b0-8216-8f821160c7d6",
+    "genres": "RPG"
   },
   "a gummy's life": {
     "imageUrl": null,
@@ -30,6 +58,10 @@
   "a musical story": {
     "imageUrl": null,
     "genres": null
+  },
+  "a perfect day": {
+    "imageUrl": "https://www.gematsu.com/wp-content/uploads/2023/10/Game-Page-Featured_A-Perfect-Day.jpg?w\\u003d640",
+    "genres": "Indie"
   },
   "a plague tale bundle": {
     "imageUrl": null,
@@ -63,9 +95,25 @@
     "imageUrl": null,
     "genres": null
   },
+  "aca neogeo metal slug": {
+    "imageUrl": "https://cdn2.steamgriddb.com/grid/2eb8302605d2cacb6457d1f4af221875.png",
+    "genres": ""
+  },
+  "aca neogeo metal slug 4": {
+    "imageUrl": "https://cdn2.steamgriddb.com/grid/1549586c33cbaa0c0b9f9db750b8768b.png",
+    "genres": "Cargando..."
+  },
+  "aca neogeo metal slug 5": {
+    "imageUrl": "https://cdn2.steamgriddb.com/grid/d1c26616c4c89a5e0ef04274e63c7849.png",
+    "genres": ""
+  },
   "accident": {
     "imageUrl": null,
     "genres": null
+  },
+  "accidents will happen - dangerous driving crash mode bundle": {
+    "imageUrl": "https://img.gg.deals/6a/2a/b6d941ac183398c0747e3cea86510dd63adf_1232xr706_Q100.png",
+    "genres": "Carreras y vuelo"
   },
   "ace attorney investigations collection": {
     "imageUrl": null,
@@ -74,6 +122,14 @@
   "ace combat™ 7: skies unknown": {
     "imageUrl": null,
     "genres": null
+  },
+  "ace combat™ 7: skies unknown - top gun: maverick edition": {
+    "imageUrl": "https://cdn-ext.fanatical.com/production/product/1280x720/200c489c-6e73-47f4-a76a-02a8232a6634.jpeg",
+    "genres": "Simulación - Vuelo"
+  },
+  "ace combat™ 7: skies unknown - top gun: maverick ultimate edition": {
+    "imageUrl": "https://products.eneba.games/resized-products/T-p1MECmHx4-jI3lwsl-OpRvhlJugZ02445dGLZL0bY_350x200_3x-0.png",
+    "genres": "Simulación - Vuelo"
   },
   "achilles: legends untold": {
     "imageUrl": null,
@@ -119,17 +175,29 @@
     "imageUrl": null,
     "genres": null
   },
+  "aery - recuerdos rotos": {
+    "imageUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1424790/capsule_616x353.jpg?t=1725286048",
+    "genres": "Aventura - Familia"
+  },
+  "aery - time traveller bundle": {
+    "imageUrl": "https://cdn5.mtcgame.com/Images/Category/1f1b6597-3718-4154-a8f5-671a0034d062.jpg",
+    "genres": "Aventura - Familia"
+  },
   "aeternoblade i&ii saga": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "https://cdn2.steamgriddb.com/grid/2036d3e2b79ddb82133784f03eb5250f.png",
+    "genres": ""
+  },
+  "aeternoblade ii: infinity": {
+    "imageUrl": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-997583-52.jpg",
+    "genres": "Adventure - Rol"
   },
   "aew: fight forever": {
     "imageUrl": null,
     "genres": null
   },
   "after us": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "https://cdn2.steamgriddb.com/grid/b7a31adb4bfbb19c07208eb6797354e9.jpg",
+    "genres": "Cargando..."
   },
   "afterdream": {
     "imageUrl": null,
@@ -143,9 +211,21 @@
     "imageUrl": null,
     "genres": null
   },
+  "agatha christie - asesinato en el orient express ": {
+    "imageUrl": "https://i0.wp.com/www.microids.com/wp-content/uploads/2023/08/murder-banner-logo-1.jpg?fit=1474%2C827&ssl=1",
+    "genres": "Acción y Aventura"
+  },
   "agatha christie - hercule poirot: the first cases": {
     "imageUrl": null,
     "genres": null
+  },
+  "age of empires iv: edición de aniversario - pc": {
+    "imageUrl": "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2022/10/impresiones-age-empires-iv-anniversary-edition-2853119.jpg?tf=1200x1200",
+    "genres": "Estrategia"
+  },
+  "age of mythology premium edition ": {
+    "imageUrl": "https://m.media-amazon.com/images/I/81fQSVnfI3L.jpg",
+    "genres": "Estrategia"
   },
   "age of mythology: retold ": {
     "imageUrl": null,
@@ -154,6 +234,10 @@
   "age of wonders 4 ": {
     "imageUrl": null,
     "genres": null
+  },
+  "age of wonders 4: premium edition ": {
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn_Glss0IDROSmB20LLH4PbfTA_vtBYjTthQ&s",
+    "genres": "Estrategia"
   },
   "agent a - un puzle disfrazado": {
     "imageUrl": null,
@@ -172,8 +256,8 @@
     "genres": null
   },
   "ai: the somnium files nirvana initiative": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "https://cdn2.steamgriddb.com/grid/c35a133bb39adbe16b1c932a5fc0d13c.jpg",
+    "genres": "Adventure"
   },
   "airoheart": {
     "imageUrl": null,
@@ -184,12 +268,12 @@
     "genres": null
   },
   "alan wake 2 ": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "https://cdn2.steamgriddb.com/grid/a7147fd59ab64d16e49e819733ad2187.png",
+    "genres": "Cargando..."
   },
   "alan wake 2 deluxe edition ": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "https://cdn2.steamgriddb.com/grid/a7147fd59ab64d16e49e819733ad2187.png",
+    "genres": "Cargando..."
   },
   "alan wake remastered": {
     "imageUrl": null,
@@ -240,8 +324,8 @@
     "genres": null
   },
   "aliens: fireteam elite into the hive edition": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "https://cdn2.steamgriddb.com/grid/467e2b770acfd44e128c0c9218584c48.png",
+    "genres": "Shooter"
   },
   "aliens: fireteam elite ultimate edition": {
     "imageUrl": null,
@@ -279,6 +363,10 @@
     "imageUrl": null,
     "genres": null
   },
+  "amber alert director's cut": {
+    "imageUrl": "https://gamefaqs.gamespot.com/a/box/2/0/1/1130201_front.jpg",
+    "genres": "Acción y Aventura"
+  },
   "american fugitive": {
     "imageUrl": null,
     "genres": null
@@ -312,12 +400,12 @@
     "genres": null
   },
   "andro dunos 2": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "https://cdn2.steamgriddb.com/grid/81db357e1841895526c487e131695f7c.png",
+    "genres": "Cargando..."
   },
   "angels of death": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "https://cdn2.steamgriddb.com/grid/29fbeda12fc84baaab209699439aba09.png",
+    "genres": "Indie"
   },
   "animal doctor": {
     "imageUrl": null,
@@ -352,16 +440,16 @@
     "genres": null
   },
   "anna´s quest": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "https://m.media-amazon.com/images/I/912mho+6ccL.jpg",
+    "genres": "Cargando..."
   },
   "anno : mutationem": {
     "imageUrl": null,
     "genres": null
   },
   "anno 1800™ edición de consola": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "https://cdn2.steamgriddb.com/grid/3716117c62e07aa6f23b6fe84990378e.jpg",
+    "genres": "Strategy"
   },
   "another crab's treasure": {
     "imageUrl": null,
@@ -384,8 +472,8 @@
     "genres": null
   },
   "apftu": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1064310/ss_f9cf91b1b34b64f936611a44b372f560af9830aa.1920x1080.jpg?t\\u003d1742390323",
+    "genres": ""
   },
   "apsulov: end of gods": {
     "imageUrl": null,
@@ -400,8 +488,8 @@
     "genres": null
   },
   "arcade classics anniversary collection": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "https://cdn2.steamgriddb.com/grid/9416ee6f8b80c68e03265d13fb136a49.png",
+    "genres": "Casual"
   },
   "arcade spirits: the new challengers": {
     "imageUrl": null,
@@ -488,24 +576,24 @@
     "genres": null
   },
   "assassin's creed® iii remastered": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "https://cdn2.steamgriddb.com/grid/f0ce59b6bf8e03499c788c348919a196.jpg",
+    "genres": "Cargando..."
   },
   "assassin's creed® mirage": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "https://cdn2.steamgriddb.com/grid/c101b3cd6b1831640ee21dcc88fcf278.jpg",
+    "genres": "Action"
   },
   "assassin's creed® mirage: master assassin edition ": {
     "imageUrl": null,
     "genres": null
   },
   "assassin's creed® valhalla complete edition": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "https://cdn2.steamgriddb.com/grid/e2ea9e1f3d2660dc641143e35e7e6767.png",
+    "genres": "Cargando..."
   },
   "assassin's creed® valhalla ragnarök edition ": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "https://cdn2.steamgriddb.com/grid/77c4fc4786f2c1241d94944eaff9be10.jpg",
+    "genres": "Cargando..."
   },
   "assetto corsa competizione": {
     "imageUrl": null,
@@ -600,8 +688,8 @@
     "genres": null
   },
   "b.a.t.s.": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "https://cdn2.steamgriddb.com/grid/621ab8a77c88b9b7f102f828aaaca9a2.png",
+    "genres": "Cargando..."
   },
   "baby shark™: sing & swim party": {
     "imageUrl": null,
@@ -620,8 +708,8 @@
     "genres": null
   },
   "backfirewall_": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "https://cdn2.steamgriddb.com/grid/6776a9a37ff204c6d3b4c323900fea8e.jpg",
+    "genres": "Cargando..."
   },
   "bai qu: hundreds of melodies": {
     "imageUrl": null,
@@ -664,8 +752,8 @@
     "genres": null
   },
   "bandidos estratégicos": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "https://gamefaqs.gamespot.com/a/box/2/5/2/1039252_front.jpg",
+    "genres": "Cargando..."
   },
   "banishers: ghosts of new eden": {
     "imageUrl": null,
@@ -680,8 +768,8 @@
     "genres": null
   },
   "barn finders y treasure hunter simulator": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "https://gaming-cdn.com/images/products/15396/orig/barn-finders-pc-game-steam-cover.jpg?v\\u003d1700554774",
+    "genres": "Indie"
   },
   "bartlow's dread machine": {
     "imageUrl": null,
@@ -692,16 +780,16 @@
     "genres": null
   },
   "bassmaster® fishing: 2022 bassmaster classic®": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "https://cdn2.steamgriddb.com/grid/eb5ccad6c4d964360388a3ee7a4bd457.jpg",
+    "genres": "Cargando..."
   },
   "bassmaster® fishing: deluxe edition": {
     "imageUrl": null,
     "genres": null
   },
   "batbarian: testamento de los primordials": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "https://cdn2.steamgriddb.com/grid/8a7acb63d0c19c17d85846eba895a56e.jpg",
+    "genres": "Cargando..."
   },
   "batman: arkham collection": {
     "imageUrl": null,
@@ -724,8 +812,8 @@
     "genres": null
   },
   "battlefield™ 2042 para xbox one y xbox series x|s ": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "https://cdn2.steamgriddb.com/grid/2720a5a68d93c81033704613e28e1a5f.png",
+    "genres": "Cargando..."
   },
   "battlefield™ v definitive edition": {
     "imageUrl": null,
@@ -776,8 +864,8 @@
     "genres": null
   },
   "ben 10 lote": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "https://cdn2.steamgriddb.com/grid/fa9fea0b7b45adf3f5fed9c853f467a6.png",
+    "genres": "Cargando..."
   },
   "ben 10: power trip": {
     "imageUrl": null,
@@ -800,8 +888,8 @@
     "genres": null
   },
   "bienvenido a hanwell": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "https://cdn2.steamgriddb.com/grid/c73e154c3878a396aab444516e91de0e.png",
+    "genres": "Casual"
   },
   "big rumble boxing: creed champions": {
     "imageUrl": null,
@@ -876,8 +964,8 @@
     "genres": null
   },
   "blasphemous 2": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "https://cdn2.steamgriddb.com/grid/e08e406b1da61d9d083327d3ca56fd11.png",
+    "genres": "Cargando..."
   },
   "blaster master zero 2": {
     "imageUrl": null,
@@ -900,8 +988,8 @@
     "genres": null
   },
   "blood bowl 3 - brutal edition ": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "https://cdn2.steamgriddb.com/grid/9a411fbfd40992ee064ed61e7cfe215c.png",
+    "genres": "Cargando..."
   },
   "bloodrayne 2: revamped": {
     "imageUrl": null,
@@ -975,7 +1063,7 @@
     "imageUrl": null,
     "genres": null
   },
-  "braid, anniversary edition": {
+  "braid": {
     "imageUrl": null,
     "genres": null
   },
@@ -984,12 +1072,12 @@
     "genres": null
   },
   "bratz®: a presumir de estilazo - edición completa": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "https://cdn2.steamgriddb.com/grid/a47e93b3853da594b74f757da256ab20.png",
+    "genres": "Cargando..."
   },
   "bratz™: a presumir de estilazo": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "https://cdn2.steamgriddb.com/grid/a47e93b3853da594b74f757da256ab20.png",
+    "genres": "Cargando..."
   },
   "bright memory": {
     "imageUrl": null,
@@ -1076,8 +1164,8 @@
     "genres": null
   },
   "bus simulator": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "https://terminalgamer.com/wp-content/uploads/2019/09/Bus-Simulator_20190911143210.jpg",
+    "genres": "Cargando..."
   },
   "bus simulator 21 next stop": {
     "imageUrl": null,
@@ -1092,8 +1180,8 @@
     "genres": null
   },
   "caballeros floppy": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "https://cdn2.steamgriddb.com/grid/efb770202cfed3a71f423315b2d4b0d1.png",
+    "genres": "Cargando..."
   },
   "cafe owner simulator": {
     "imageUrl": null,
@@ -1108,60 +1196,80 @@
     "genres": null
   },
   "call of duty®: advanced warfare - gold edition": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "https://cdn2.steamgriddb.com/grid/3ad8620baf132c24e02c376672dff6b6.png",
+    "genres": "Cargando..."
   },
   "call of duty®: black ops 4": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "https://cdn2.steamgriddb.com/grid/f200537982c3729a0eb7af742d370826.png",
+    "genres": "Cargando..."
+  },
+  "call of duty®: black ops 6 - lote multigeneración": {
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3wDo7A5GzGs0T850pxOOrY0-yEbxrltjCOA&s",
+    "genres": "Shooter"
   },
   "call of duty®: black ops cold war": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "https://cdn2.steamgriddb.com/grid/2c3dd8064e75cdf11bc22399ec427e08.png",
+    "genres": "Cargando..."
   },
   "call of duty®: ghosts": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "https://cdn2.steamgriddb.com/grid/fe264dded3eaff218eec0176afde2232.png",
+    "genres": "Cargando..."
+  },
+  "call of duty®: infinite warfare - digital deluxe edition": {
+    "imageUrl": "https://static.kinguin.net/media/catalog/category/cache/1/hi_image/9df78eab33525d08d6e5fb8d27136e95/1065full-call-of-duty_-infinite-warfare----digital-deluxe-edition-cover_1.jpg",
+    "genres": "Shooter"
+  },
+  "call of duty®: infinite warfare - digital deluxe edition - pc": {
+    "imageUrl": "https://products.eneba.games/resized-products/YWN7b-5PEK0k-kiY-qoPhj8edmYOKtRdR248fjnKPVk_350x200_3x-0.jpeg",
+    "genres": "Shooter"
+  },
+  "call of duty®: infinite warfare - digital legacy edition - pc": {
+    "imageUrl": "https://store-images.s-microsoft.com/image/apps.42542.13510798887670809.1152921504711563955.512c950f-d5e2-476f-8232-8da1de2a6be3",
+    "genres": "Shooter"
+  },
+  "call of duty®: infinite warfare - ed. lanzamiento": {
+    "imageUrl": "https://i.ytimg.com/vi/Is5hPH1UyJI/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGAgZShVMA8=&rs=AOn4CLC4yXuBiISdZ7D9xCuf2o1ZhwGTBw",
+    "genres": "Shooter"
   },
   "call of duty®: infinite warfare - pc": {
     "imageUrl": null,
     "genres": null
   },
   "call of duty®: modern warfare® 2 campaign remastered": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "https://cdn2.steamgriddb.com/grid/280fb9d906d1b5e4c81cbca4d90040a9.png",
+    "genres": "Cargando..."
   },
   "call of duty®: modern warfare® ii - lote multigeneración ": {
     "imageUrl": null,
     "genres": null
   },
   "call of duty®: modern warfare® remastered": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "https://cdn2.steamgriddb.com/grid/a3116fcb0ff78581d441a3de68287e73.png",
+    "genres": "Cargando..."
   },
   "call of duty®: modern warfare® remastered - pc": {
     "imageUrl": null,
     "genres": null
   },
   "call of duty®: vanguard - lote multigeneración": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "https://cdn2.steamgriddb.com/grid/6733a6cfa952e637e886d8041fba79ce.jpg",
+    "genres": "Cargando..."
   },
   "call of duty®: wwii gold edition": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "https://cdn2.steamgriddb.com/grid/0a07a96284741df4a0d7db65fa72fcf6.png",
+    "genres": "Cargando..."
   },
   "call of the wild: the angler™ ": {
     "imageUrl": null,
     "genres": null
   },
   "can't drive this": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "https://cdn2.steamgriddb.com/grid/c8d195dc7fb3706c4afa320ea0370884.png",
+    "genres": "Cargando..."
   },
   "capes - king city edition": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "https://cdn2.steamgriddb.com/grid/7a66c738b3475be6819a607333344a82.png",
+    "genres": "Cargando..."
   },
   "captain's choice bundle": {
     "imageUrl": null,
@@ -1216,8 +1324,8 @@
     "genres": null
   },
   "carx drift racing online": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "https://cdn2.steamgriddb.com/grid/8a88b6611ab952a6aa8270d0e6b9d5d1.png",
+    "genres": "Racing"
   },
   "case 2: animatronics survival": {
     "imageUrl": null,
@@ -1252,16 +1360,16 @@
     "genres": null
   },
   "catan® - edición para consolas super deluxe": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "https://cdn2.steamgriddb.com/grid/c7d651d1503f32a4c45e8fdd47b9ade2.png",
+    "genres": "Cargando..."
   },
   "catie in meowmeowland": {
     "imageUrl": null,
     "genres": null
   },
-  "century: age of ashes - tormentadores edición premium\r\n": {
-    "imageUrl": null,
-    "genres": null
+  "century: age of ashes - tormentadores edición premium": {
+    "imageUrl": "https://cdn2.steamgriddb.com/grid/f32455bc1bdb44da9558bdfceb8b255c.png",
+    "genres": "Cargando..."
   },
   "charon's staircase": {
     "imageUrl": null,
@@ -1320,8 +1428,8 @@
     "genres": null
   },
   "chronicles of 2 heroes": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "https://cdn2.steamgriddb.com/grid/1c7ba561d1a3e1b2193ea1545013db96.jpg",
+    "genres": "Cargando..."
   },
   "chrono cross: the radical dreamers edition": {
     "imageUrl": null,
@@ -1332,8 +1440,8 @@
     "genres": null
   },
   "círculo infinito": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "https://cdn2.steamgriddb.com/grid/6a975ab39190974c74584462181a78d8.png",
+    "genres": "Cargando..."
   },
   "circus electrique": {
     "imageUrl": null,
@@ -1424,8 +1532,8 @@
     "genres": null
   },
   "colección life is strange remasterizada": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "https://cdn2.steamgriddb.com/grid/855d05149c8915538dbad94c796751cc.jpgf",
+    "genres": "Adventure"
   },
   "colección persona": {
     "imageUrl": null,
@@ -1436,8 +1544,8 @@
     "genres": null
   },
   "colossal cave": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "https://cdn2.steamgriddb.com/grid/0ffc5ccc97b0886c5b2f0e10d83295be.png",
+    "genres": "Cargando..."
   },
   "comic book legends": {
     "imageUrl": null,
@@ -1448,8 +1556,8 @@
     "genres": null
   },
   "commandos 2 - hd remaster": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "https://cdn2.steamgriddb.com/grid/c73e6ab0f8dd762bbb7ac3d3134b3800.png",
+    "genres": "Cargando..."
   },
   "commandos 2 & 3 – hd remaster double pack": {
     "imageUrl": null,
@@ -1560,8 +1668,8 @@
     "genres": null
   },
   "cooking simulator": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "https://cdn2.steamgriddb.com/grid/f337aea373bf658a4dda39baa3446db2.png",
+    "genres": "Cargando..."
   },
   "corponation: the sorting process": {
     "imageUrl": null,
@@ -1604,8 +1712,8 @@
     "genres": null
   },
   "crashlands": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "https://cdn2.steamgriddb.com/grid/ef7b228b3dfc4e01f67d467eac74e441.png",
+    "genres": "Cargando..."
   },
   "crash™ team racing nitro-fueled - edición nitros oxide": {
     "imageUrl": null,
@@ -1640,8 +1748,8 @@
     "genres": null
   },
   "crisis core –final fantasy vii– reunion": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "https://cdn2.steamgriddb.com/grid/edb49b9954bfde1120db95e20b22e97a.png",
+    "genres": "Cargando..."
   },
   "crisis core –final fantasy vii– reunion digital deluxe edition ": {
     "imageUrl": null,
@@ -1740,16 +1848,16 @@
     "genres": null
   },
   "dance of death: du lac & fey": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "https://cdn2.steamgriddb.com/grid/9f90c9ccb0a7511faa2379d61ad6f22d.png",
+    "genres": "Cargando..."
   },
   "dandy ace": {
     "imageUrl": null,
     "genres": null
   },
   "danganronpa 2: goodbye despair anniversary edition": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "https://cdn2.steamgriddb.com/grid/d10f7b63af219945d833aa0e616a2c8f.jpg",
+    "genres": "Cargando..."
   },
   "dangerous driving": {
     "imageUrl": null,
@@ -1812,24 +1920,28 @@
     "genres": null
   },
   "days of doom": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "https://cdn2.steamgriddb.com/grid/5dce9db88cc682b14b8932e3c68ec959.png",
+    "genres": "Cargando..."
   },
   "dayz cool edition": {
     "imageUrl": null,
     "genres": null
   },
   "dc justice league: caos cósmico": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "https://cdn2.steamgriddb.com/grid/eba3375e44759a8d8e5d66bea9cb25c5.jpg",
+    "genres": "Cargando..."
   },
   "dc liga de supermascotas: aventuras de krypto & ace": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "https://cdn2.steamgriddb.com/grid/fbda07c79fe717641ae01d0331651581.png",
+    "genres": "Cargando..."
+  },
+  "death stranding director's cut": {
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgxudSmkMKJmgqStdfMwPUppoYp3IVNjvUjA&s",
+    "genres": "Shooter"
   },
   "dead age ii": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "https://cdn2.steamgriddb.com/grid/6f42dc89f9659189bc9e99e9bf4e7232.png",
+    "genres": "Adventure"
   },
   "dead cells: medley of pain bundle": {
     "imageUrl": null,
@@ -1856,8 +1968,8 @@
     "genres": null
   },
   "dead man´s diary": {
-    "imageUrl": null,
-    "genres": null
+    "imageUrl": "https://saviorgaming.blog/wp-content/uploads/2024/03/6ddbe-6-1-944866-52.jpg?w=720n",
+    "genres": "Cargando..."
   },
   "dead space remake": {
     "imageUrl": null,
@@ -2158,6 +2270,10 @@
   "dracula's legacy remastered": {
     "imageUrl": null,
     "genres": null
+  },
+  "dragon's dogma 2 deluxe edition": {
+    "imageUrl": "https://cdn-ext.fanatical.com/production/product/1280x720/0dedb1c3-55d0-408e-95fc-7007d31881bc.jpeg",
+    "genres": "RPG"
   },
   "dragon ball sparking! zero": {
     "imageUrl": null,
@@ -2775,6 +2891,14 @@
     "imageUrl": null,
     "genres": null
   },
+  "fc 24": {
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQljTsJz0eq-dZZhr_Zf3f40KPOh76fPd5gA&s",
+    "genres": "Simulación - Deporte"
+  },
+  "fc 25": {
+    "imageUrl": "https://assets.goal.com/images/v3/blt178d34156522b281/GOAL%20-%20Blank%20WEB%20-%20Facebook%20-%202024-07-17T151013.046.jpg?auto=webp&format=pjpg&width=3840&quality=60",
+    "genres": "Simulación - Deporte"
+  },
   "fearsome shadows bundle": {
     "imageUrl": null,
     "genres": null
@@ -2806,6 +2930,10 @@
   "filthy animals | heist simulator": {
     "imageUrl": null,
     "genres": null
+  },
+  "final fantasy xvi complete edition": {
+    "imageUrl": "https://gaming-cdn.com/images/products/17418/orig/final-fantasy-xvi-complete-edition-complete-edition-pc-spel-steam-cover.jpg?v=1736437472",
+    "genres": "RPG"
   },
   "final fantasy vii": {
     "imageUrl": null,
@@ -3306,6 +3434,10 @@
   "grand theft auto v (xbox one y xbox series x|s)": {
     "imageUrl": null,
     "genres": null
+  },
+  "grand theft auto v xbox one": {
+    "imageUrl": "https://i5.walmartimages.com/seo/Grand-Theft-Auto-V-Xbox-One_3072f375-71a7-4fb4-9b43-d793920a51d3.52693e7f877646daf0654a1f268a9844.jpeg",
+    "genres": "Action"
   },
   "grand theft auto: the trilogy – the definitive edition": {
     "imageUrl": null,
@@ -4463,6 +4595,10 @@
     "imageUrl": null,
     "genres": null
   },
+  "lies of p: overture bundle": {
+    "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202505/2608/ebb28e14f8f0278f4237c7296eb8d80753fa110f7a65e47b.png",
+    "genres": "Acción y Aventura"
+  },
   "life is strange complete season (episodes 1-5)": {
     "imageUrl": null,
     "genres": null
@@ -4946,6 +5082,10 @@
   "metro simulator 2": {
     "imageUrl": null,
     "genres": null
+  },
+  "mindseye - deluxe edition": {
+    "imageUrl": "https://d17umfmk0e27oh.cloudfront.net/articulos/articulos-1460328.jpg",
+    "genres": "Acción y Aventura"
   },
   "mia and the dragon princess": {
     "imageUrl": null,
@@ -6071,6 +6211,10 @@
     "imageUrl": null,
     "genres": null
   },
+  "poppy playtime: chapter 4": {
+    "imageUrl": "https://gamegator.net/_next/image?url=https%3A%2F%2Fimages.gamegator.net%2Fco9byv&w=640&q=75",
+    "genres": "Acción y Aventura"
+  },
   "port royale 4 - extended edition": {
     "imageUrl": null,
     "genres": null
@@ -6330,6 +6474,10 @@
   "re:call": {
     "imageUrl": null,
     "genres": null
+  },
+  "ready or not: digital deluxe edition": {
+    "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202504/1414/365a5bd02a8c6875febb9de26057b53e3618baa547ff048b.jpg",
+    "genres": "Shooter"
   },
   "ready, steady, ship!": {
     "imageUrl": null,
@@ -6675,6 +6823,10 @@
     "imageUrl": null,
     "genres": null
   },
+  "star trucker - deluxe bundle": {
+    "imageUrl": "https://store-images.s-microsoft.com/image/apps.9370.14233531336726724.dffd5a23-a924-4ff9-b953-526f2f0dab0f.5240e569-ae41-414f-abf2-6ece5c59b869?mode=scale&q=90&h=300&w=200&background=%23FFFFFF",
+    "genres": "Simulación"
+  },
   "s.t.a.l.k.e.r.: legends of the zone trilogy": {
     "imageUrl": null,
     "genres": null
@@ -6954,6 +7106,10 @@
   "signs of the sojourner": {
     "imageUrl": null,
     "genres": null
+  },
+  "silent hill f - deluxe edition": {
+    "imageUrl": "https://cdn-ext.fanatical.com/production/product/1280x720/44acca9f-1ba3-47c7-aedd-436bb45d984e.jpeg",
+    "genres": "Terror"
   },
   "silver chains": {
     "imageUrl": null,
@@ -7566,6 +7722,10 @@
   "sunrise gp": {
     "imageUrl": null,
     "genres": null
+  },
+  "supermarket owner simulator: business": {
+    "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202406/0319/b62505b3f3dbfc20c31f15a54d8d87643c47ba7cd17b804d.png",
+    "genres": "Simulación"
   },
   "super arcade football": {
     "imageUrl": null,
@@ -8619,6 +8779,10 @@
     "imageUrl": null,
     "genres": null
   },
+  "to a t": {
+    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1875320/a9676044c8b8ccfc9b46f107996ce6e85e21c70b/header.jpg?t=1749748161",
+    "genres": "Acción y Aventura"
+  },
   "toem": {
     "imageUrl": null,
     "genres": null
@@ -9608,10 +9772,6 @@
     "genres": null
   },
   "zombie soup": {
-    "imageUrl": null,
-    "genres": null
-  },
-  "braid": {
     "imageUrl": null,
     "genres": null
   }
